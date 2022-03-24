@@ -42,7 +42,10 @@ class ConnectionHandler {
   void OnFinalResult(const std::string& result);
   void DecodeThreadFunc();
   std::string SerializeResult(bool finish);
+  std::string SerializeResult(std::string raw_str);
+
   void reset();
+  std::string Get_segs_result();
 
   bool continuous_decoding_ = false;
   int nbest_ = 1;
@@ -78,6 +81,7 @@ class ConnectionHandler {
   Acts acts_;
 
   Httpaudio httpaudio_;
+  std::vector<Seginfo> seginfos_;
   //std::shared_ptr<httplib::Client> pcli;
  };
 

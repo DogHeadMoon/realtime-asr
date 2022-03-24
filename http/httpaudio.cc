@@ -52,16 +52,16 @@ std::string Httpaudio::post(std::vector<uint8_t> content, std::string id){
       int status = res->status;
       std::string jsonbody = res->body;
       if(status == 200){
-        std::cout<<"status : " <<status <<std::endl; 
-        std::cout<<"jsonbody : " <<jsonbody <<std::endl;
+        //std::cout<<"status : " <<status <<std::endl; 
+        //std::cout<<"jsonbody : " <<jsonbody <<std::endl;
         rt = parse_json(jsonbody);
-        std::cout<<rt<<std::endl; 
+        //std::cout<<rt<<std::endl; 
       }
   }
   std::chrono::time_point<std::chrono::system_clock, std::chrono::milliseconds> tp = std::chrono::time_point_cast<std::chrono::milliseconds>(std::chrono::system_clock::now());
   std::uint64_t key_end = (std::uint64_t)tp.time_since_epoch().count();
   std::uint64_t consume  = key_end - start_tick; 
-  std::cout<<"time consume : "<<consume<<std::endl;
+  //std::cout<<"time consume : "<<consume<<std::endl;
   return rt;
 }
 

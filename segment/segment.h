@@ -2,7 +2,15 @@
 #define SEGMENT_H_
 
 #include <vector>
+#include <string>
 using namespace std;
+
+struct Seginfo {
+    int st_frm;
+    int end_frm;
+    std::string result;
+    int ref_origin_idx; 
+};
 
 class Acts{
 public:

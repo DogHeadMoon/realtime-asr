@@ -127,34 +127,19 @@ void ConnectionHandler::OnSpeechData(const beast::flat_buffer& buffer) {
 }
 
 std::string ConnectionHandler::SerializeResult(bool finish) {
-
   // add by du
   json::object jpath({{"sentence",  cur_result_}});  
   json::array nbest;
   nbest.emplace_back(jpath);
   return json::serialize(nbest);
+}
 
-/*
- json::array nbest;
-  for (const DecodeResult& path : decoder_->result()) {
-    json::object jpath({{"sentence", path.sentence}});
-    if (finish) {
-      json::array word_pieces;
-      for (const WordPiece& word_piece : path.word_pieces) {
-        json::object jword_piece({{"word", word_piece.word},
-                                  {"start", word_piece.start},
-                                  {"end", word_piece.end}});
-        word_pieces.emplace_back(jword_piece);
-      }
-      jpath.emplace("word_pieces", word_pieces);
-    }
-    nbest.emplace_back(jpath);
-    if (nbest.size() == nbest_) {
-      break;
-    }
-  }
+
+std::string ConnectionHandler::SerializeResult(std::string raw_str){
+  json::object jpath({{"sentence",  raw_str}});  
+  json::array nbest;
+  nbest.emplace_back(jpath);
   return json::serialize(nbest);
-*/
 }
 
 void ConnectionHandler::DecodeThreadFunc() {
@@ -168,6 +153,13 @@ void ConnectionHandler::DecodeThreadFunc() {
         std::cout<<"tatal samples n : "<<samples_.size() <<std::endl;
 
         /*
+        int nsts = acts_.seg_sts_.size();
+        int nends = acts_.seg_ends_.size();
+        if(nsts == nends + 1 && nsts>0){
+        }*/
+
+
+        /*
         FILE * pFile;
         pFile = fopen ("finalcpp.pcm", "wb");
         fwrite (&samples_[0] , sizeof(samples_[0]), samples_.size(), pFile);
@@ -178,9 +170,13 @@ void ConnectionHandler::DecodeThreadFunc() {
         vector<T> newVec(first, last); */
 
         std::vector<uint8_t> data(samples_.size()*sizeof(int16_t)/sizeof(uint8_t));
+        
+        /*
         std::memcpy(&data[0], samples_.data(), samples_.size() * sizeof(int16_t));
-        cur_result_ = httpaudio_.post(data, key);
-        std::string rt = SerializeResult(true);
+        std::string whole_rt = httpaudio_.post(data, key);
+        std::string rt = SerializeResult(whole_rt);
+        */
+        std::string rt = Get_segs_result();
         OnFinalResult(rt);
         OnFinish();
         reset();
@@ -217,6 +213,7 @@ void ConnectionHandler::DecodeThreadFunc() {
               if(DEBUG){
                 std::cout<<"current n frames : "<<nframes<<std::endl; 
               }
+
               for(int i=last_frame_;i<nframes;i++){
                 int r = WebRtcVad_Process(pvad_inst_, 16000, &samples_[0] + samples_per_frame*i, samples_per_frame);
                 acts_.add_act(r, false);
@@ -247,14 +244,23 @@ void ConnectionHandler::DecodeThreadFunc() {
                 if(st<num_samples && end<num_samples){
                   float perct = acts_.act_percent(acts_.seg_sts_[i], acts_.seg_ends_[i]);
                   std::cout <<"seg "<<i<<"  acts percentage : "<<perct <<std::endl;
+                  
                   if( perct>MIN_ACT_PERCENT && n_spk_frames>MIN_SPEAK_NFRAMES ){
                     std::string key="a";
                     int num_samples = end-st+1;
                     std::vector<uint8_t> data(num_samples*sizeof(int16_t)/sizeof(uint8_t));
                     std::memcpy(&data[0], &(samples_[st]), num_samples*sizeof(int16_t));
-                    cur_result_ = httpaudio_.post(data, key);
-                    std::string rt = SerializeResult(false);
-                    std::cout<<"seg "<< i<<" partial seg result : "<<cur_result_<<std::endl;
+                    std::string cur_result = httpaudio_.post(data, key);
+                    
+
+                    Seginfo info;
+                    info.st_frm = acts_.seg_sts_[i];
+                    info.end_frm = acts_.seg_ends_[i];
+                    info.result = cur_result;
+                    seginfos_.emplace_back(info);
+                    std::cout<<"seg "<< i<<" partial seg result : "<<cur_result<<std::endl;
+                    std::string str_allsegs = Get_segs_result();
+                    std::string rt = SerializeResult(str_allsegs);
                     OnPartialResult(rt);
                   }
                 }
@@ -289,10 +295,12 @@ void ConnectionHandler::DecodeThreadFunc() {
                     std::string key="a";
                     std::vector<uint8_t> data(num_sp*sizeof(int16_t)/sizeof(uint8_t));
                     std::memcpy(&data[0], &(samples_[st]), num_sp*sizeof(int16_t));
-                    cur_result_ = httpaudio_.post(data, key);
-                    std::string rt = SerializeResult(false);
-                    std::cout<<"partial st: "<<acts_.seg_sts_[nsts-1]<<" end: "<<end_spl_idx/samples_per_frame<<std::endl;
-                    std::cout<<"partial result : "<<cur_result_<<std::endl; 
+                    std::string temp_rt = httpaudio_.post(data, key);
+                    std::string all_segs_rt = Get_segs_result();
+                    std::string rt = SerializeResult(all_segs_rt+"<br />"+temp_rt+"...");
+                    std::cout<<"temp partial st: "<<acts_.seg_sts_[nsts-1]<<" end: "<<end_spl_idx/samples_per_frame<<std::endl;
+                    std::cout<<"all segs rt : "<<all_segs_rt<<std::endl;
+                    std::cout<<"temp partial result : "<<temp_rt<<std::endl; 
                     OnPartialResult(rt); 
                   }
 
@@ -413,6 +421,15 @@ void ConnectionHandler::reset(){
   cur_sec_pt_ = 0;
 } 
 
+std::string ConnectionHandler::Get_segs_result(){
+  std::string rt;
+  for(int i=0;i<seginfos_.size();i++){
+    if(seginfos_[i].result != ""){
+      rt += seginfos_[i].result + "，";
+    }
+  }
+  return rt;
+}
 
 void WebSocketServer::Start() {
   try {
