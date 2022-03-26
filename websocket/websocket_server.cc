@@ -170,13 +170,14 @@ void ConnectionHandler::DecodeThreadFunc() {
         vector<T> newVec(first, last); */
 
         std::vector<uint8_t> data(samples_.size()*sizeof(int16_t)/sizeof(uint8_t));
-        
-        /*
         std::memcpy(&data[0], samples_.data(), samples_.size() * sizeof(int16_t));
-        std::string whole_rt = httpaudio_.post(data, key);
-        std::string rt = SerializeResult(whole_rt);
-        */
-        std::string rt = Get_segs_result();
+        std::string whole_offline_rt = httpaudio_.post(data, key, "whole_pcm");
+        std::string whole_segs = Get_segs_result();
+        std::cout<<"whole offline rt : "<<whole_offline_rt<<std::endl;
+        std::cout<<"whole segs rt :"<<whole_segs<<std::endl;
+        std::string rt = SerializeResult(whole_offline_rt);
+        
+        //std::string rt = Get_segs_result();
         OnFinalResult(rt);
         OnFinish();
         reset();
@@ -216,7 +217,7 @@ void ConnectionHandler::DecodeThreadFunc() {
 
               for(int i=last_frame_;i<nframes;i++){
                 int r = WebRtcVad_Process(pvad_inst_, 16000, &samples_[0] + samples_per_frame*i, samples_per_frame);
-                acts_.add_act(r, false);
+                acts_.add_act(r);
                 if(DEBUG){
                   std::cout<<"add_act i frame : "<<i<<" act :"<<r<<std::endl;
                 }
@@ -246,10 +247,11 @@ void ConnectionHandler::DecodeThreadFunc() {
                   std::cout <<"seg "<<i<<"  acts percentage : "<<perct <<std::endl;
                   
                   if( perct>MIN_ACT_PERCENT && n_spk_frames>MIN_SPEAK_NFRAMES ){
-                    std::string key="a";
+                    std::string key="seg-";
                     int num_samples = end-st+1;
                     std::vector<uint8_t> data(num_samples*sizeof(int16_t)/sizeof(uint8_t));
                     std::memcpy(&data[0], &(samples_[st]), num_samples*sizeof(int16_t));
+                    key += std::to_string(i);
                     std::string cur_result = httpaudio_.post(data, key);
                     
 
@@ -283,27 +285,38 @@ void ConnectionHandler::DecodeThreadFunc() {
               std::cout<<"partial result : "<<cur_result_<<std::endl; 
               OnPartialResult(rt); */
             
-              const int min_spl = 16000 * 1.5;
+              const int min_spl = 16000 ;
+              //const int min_spl = 16000 * 2;
               int nsts = acts_.seg_sts_.size();
               int nends = acts_.seg_ends_.size();
               if(nsts == nends + 1 && nsts>0){
-                if(acts_.act_percent(acts_.seg_sts_[nsts-1], end_spl_idx/samples_per_frame)>0.5){
+                float act_percent = acts_.act_percent(acts_.seg_sts_[nsts-1], end_spl_idx/samples_per_frame);
+                if(act_percent>0.6){
                   int st = acts_.seg_sts_[nsts-1] * samples_per_frame;
                   int end = end_spl_idx;
                   int num_sp = end - st;
                   if(num_sp>min_spl){
-                    std::string key="a";
+                    std::string key="temp-";
                     std::vector<uint8_t> data(num_sp*sizeof(int16_t)/sizeof(uint8_t));
                     std::memcpy(&data[0], &(samples_[st]), num_sp*sizeof(int16_t));
                     std::string temp_rt = httpaudio_.post(data, key);
-                    std::string all_segs_rt = Get_segs_result();
-                    std::string rt = SerializeResult(all_segs_rt+"<br />"+temp_rt+"...");
-                    std::cout<<"temp partial st: "<<acts_.seg_sts_[nsts-1]<<" end: "<<end_spl_idx/samples_per_frame<<std::endl;
-                    std::cout<<"all segs rt : "<<all_segs_rt<<std::endl;
-                    std::cout<<"temp partial result : "<<temp_rt<<std::endl; 
-                    OnPartialResult(rt); 
+                    if(temp_rt.size()>6){
+                      std::string all_segs_rt = Get_segs_result();
+                      std::string rt;
+                      if(all_segs_rt.size()>0){
+                        rt=SerializeResult(all_segs_rt+"<br />"+temp_rt+"...");
+                      }
+                      else{
+                        rt = temp_rt + "...";
+                      }
+                      
+                      std::cout<<"temp partial st: "<<acts_.seg_sts_[nsts-1]<<" end: "<<end_spl_idx/samples_per_frame<<std::endl;
+                      std::cout<<"all segs rt : "<<all_segs_rt<<std::endl;
+                      std::cout<<"temp partial result : "<<temp_rt<<std::endl; 
+                      std::cout<<"act percent: "<<act_percent <<std::endl;
+                      OnPartialResult(rt); 
+                    }
                   }
-
                 }
               }
             
@@ -425,7 +438,10 @@ std::string ConnectionHandler::Get_segs_result(){
   std::string rt;
   for(int i=0;i<seginfos_.size();i++){
     if(seginfos_[i].result != ""){
-      rt += seginfos_[i].result + "，";
+      if(seginfos_[i].result.size()>6){
+        std::cout<<"seg-i size : "<<seginfos_[i].result.size()<<"  result : "<<seginfos_[i].result<<std::endl;
+        rt += seginfos_[i].result + "，";
+      }
     }
   }
   return rt;

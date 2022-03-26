@@ -15,7 +15,7 @@ struct Seginfo {
 class Acts{
 public:
     Acts();
-    void add_act(int act, bool last);
+    void add_act(int act, bool last=false);
     bool lookback_sil();
     int get_seg_size();
     vector<pair<int, int> > get_segs(int start_idx);

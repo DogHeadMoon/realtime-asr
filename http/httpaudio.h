@@ -7,7 +7,7 @@
 
 class Httpaudio{
 public:
-    std::string post(std::vector<uint8_t> content, std::string id);
+    std::string post(std::vector<uint8_t> content, std::string id, std::string format="pcm");
     std::vector<uint8_t> decode(std::string base64);
 };
 

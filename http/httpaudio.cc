@@ -25,22 +25,33 @@ std::string parse_json(std::string jsonstr){
     }
 }
 
-std::string format_json(std::string basee64_str, std::string id){
+std::string format_json(std::string basee64_str, std::string id, std::string format){
     Json::Value fromScratch;
     fromScratch["audioBase64"] = basee64_str;
     fromScratch["id"] = id;
     fromScratch["scene"] = 0;
-    fromScratch["aue"] = "pcm";
+    fromScratch["aue"] = format;
     Json::StyledWriter styledWriter;
     std::string json_str = styledWriter.write(fromScratch);
     return json_str;
 }
 
-std::string Httpaudio::post(std::vector<uint8_t> content, std::string id){
+std::string Httpaudio::post(std::vector<uint8_t> content, std::string id, std::string format){
   //std::string content((std::istreambuf_iterator<char>(file)), std::istreambuf_iterator<char>());
-  std::string base64_str = base64::encode(content);
+  std::string base64_str;
+  /*
+  if(format=="wav"){
+      const int header = 44;
+      std::vector<uint8_t> content_with_header(header + content.size());
+      copy(content.begin(), content.end(), content_with_header.begin() + 44);
+      base64_str = base64::encode(content_with_header);
+  }
+  else{
+    base64_str = base64::encode(content);
+  }*/
+  base64_str = base64::encode(content);
   //std::cout<<base64_str<<std::endl;
-  std::string json = format_json(base64_str, id);
+  std::string json = format_json(base64_str, id, format);
   httplib::Client cli("127.0.0.1", 10086);
   std::string content_type = "application/json";
 

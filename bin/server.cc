@@ -28,9 +28,7 @@ int main(int argc, char* argv[])
   WebRtcVad_set_mode(pvad_inst, 1);
 
   kingsoft::WebSocketServer wss(atoi(argv[1]), pvad_inst);
-    cout<<"listen on "<< argv[1]<<endl;
+  cout<<"listen on "<< argv[1]<<endl;
   wss.Start();
-    cout<<"listen on "<< argv[1]<<endl;
-
   delete pvad_inst;
 }
