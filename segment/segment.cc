@@ -43,7 +43,14 @@ int Acts::check_window(int window_idx){
 void Acts::end(){
     if(seg_sts_.size() == seg_ends_.size() + 1) {
         int nframes = acts_.size();
-        seg_ends_.emplace_back(nframes-1);
+        int st = seg_sts_.back();
+        int dur = nframes - st;
+        std::cout<<"final dur : "<<dur<<std::endl;
+        std::cout<<"final act_percent : "<<act_percent(st, nframes-1)<<std::endl;
+        if(dur > 100 && act_percent(st, nframes-1) > 0.5){
+            seg_ends_.emplace_back(nframes-1);
+        }
+        //seg_ends_.emplace_back(nframes-1);
         //std::cout<<"seg ends emplace_back frame idx : "<<nframes-1<<std::endl;
         last_seg_idx_ = nframes-1;
     }

@@ -46,6 +46,7 @@ class ConnectionHandler {
 
   void reset();
   std::string Get_segs_result();
+  bool Check(std::string seg_rt);
 
   bool continuous_decoding_ = false;
   int nbest_ = 1;
@@ -79,6 +80,7 @@ class ConnectionHandler {
   int last_frame_;
   int nseg_done_;
   Acts acts_;
+  std::vector<std::string> noises_;
 
   Httpaudio httpaudio_;
   std::vector<Seginfo> seginfos_;

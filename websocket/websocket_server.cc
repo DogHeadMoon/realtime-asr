@@ -38,7 +38,7 @@ using tcp = boost::asio::ip::tcp;        // from <boost/asio/ip/tcp.hpp>
 namespace json = boost::json;
 
 bool DEBUG=false;
-const float MIN_ACT_PERCENT = 0.65;
+const float MIN_ACT_PERCENT = 0.6;
 const int MIN_SPEAK_NFRAMES = 100;
 
 
@@ -50,6 +50,7 @@ ConnectionHandler::ConnectionHandler(
       last_frame_ = 0;
       nseg_done_ = 0;
       last_nranges_ = 0;
+      noises_.emplace_back("快快快");
     }
 
 void ConnectionHandler::OnSpeechStart() {
@@ -110,6 +111,7 @@ void ConnectionHandler::OnSpeechData(const beast::flat_buffer& buffer) {
     samples_.emplace_back(pdata[i]);
   }
 
+  /*
   ofstream fs("samples.txt", ios::app);
   for(int i=0;i<100;i++){
     fs<<pdata[i]<<" ";
@@ -120,7 +122,7 @@ void ConnectionHandler::OnSpeechData(const beast::flat_buffer& buffer) {
   }
   fs<<endl;
   fs<<endl;
-  fs.close();
+  fs.close(); */
 
   rcv_range_smps_.emplace_back(std::make_pair(samples_.size() - num_samples + header, samples_.size()-1));
   state_ = 1;
@@ -148,6 +150,41 @@ void ConnectionHandler::DecodeThreadFunc() {
       int cur_size = samples_.size();
       if (state_ == 3) {
         acts_.end();
+        const int samples_per_frame = 160;
+        int ncur_seg_num = acts_.seg_ends_.size();
+        if(nseg_done_ < ncur_seg_num){
+          for(int i=nseg_done_; i<ncur_seg_num;i++){
+            int st = acts_.seg_sts_[i] * samples_per_frame;
+            int end = acts_.seg_ends_[i] * samples_per_frame;
+            int n_spk_frames = acts_.seg_ends_[i]-acts_.seg_sts_[i];
+            std::cout<<"seg "<<i<<" st: "<<acts_.seg_sts_[i]  <<" end: "<<acts_.seg_ends_[i]
+                <<"   nframes : "<<n_spk_frames<<std::endl;
+            
+            std::cout<<"last seg st: "<<st/16000<<" end:"<<end/16000<<" num_samples: "<<cur_size/16000 <<std::endl;
+            if(st<cur_size && end<cur_size){
+              float perct = acts_.act_percent(acts_.seg_sts_[i], acts_.seg_ends_[i]);
+              std::cout <<"seg "<<i<<"  acts percentage : "<<perct <<std::endl;
+              
+              if( perct>MIN_ACT_PERCENT && n_spk_frames>MIN_SPEAK_NFRAMES ){
+                std::string key="seg-";
+                int num = end-st+1;
+                std::vector<uint8_t> data(num*sizeof(int16_t)/sizeof(uint8_t));
+                std::memcpy(&data[0], &(samples_[st]), num*sizeof(int16_t));
+                key += std::to_string(i);
+                std::string cur_result = httpaudio_.post(data, key);
+                
+
+                Seginfo info;
+                info.st_frm = acts_.seg_sts_[i];
+                info.end_frm = acts_.seg_ends_[i];
+                info.result = cur_result;
+                seginfos_.emplace_back(info);
+                std::cout<<"final seg "<< i<<" final seg result : "<<cur_result<<std::endl;
+              }
+            } 
+          }
+
+        }
         std::cout<<"OnSpeechEnd"<<std::endl;
         std::string key = "final";
         std::cout<<"tatal samples n : "<<samples_.size() <<std::endl;
@@ -175,7 +212,7 @@ void ConnectionHandler::DecodeThreadFunc() {
         std::string whole_segs = Get_segs_result();
         std::cout<<"whole offline rt : "<<whole_offline_rt<<std::endl;
         std::cout<<"whole segs rt :"<<whole_segs<<std::endl;
-        std::string rt = SerializeResult(whole_offline_rt);
+        std::string rt = SerializeResult(whole_segs);
         
         //std::string rt = Get_segs_result();
         OnFinalResult(rt);
@@ -291,6 +328,7 @@ void ConnectionHandler::DecodeThreadFunc() {
               int nends = acts_.seg_ends_.size();
               if(nsts == nends + 1 && nsts>0){
                 float act_percent = acts_.act_percent(acts_.seg_sts_[nsts-1], end_spl_idx/samples_per_frame);
+                std::cout<<"act percent : "<<act_percent<<std::endl; 
                 if(act_percent>0.6){
                   int st = acts_.seg_sts_[nsts-1] * samples_per_frame;
                   int end = end_spl_idx;
@@ -307,13 +345,13 @@ void ConnectionHandler::DecodeThreadFunc() {
                         rt=SerializeResult(all_segs_rt+"<br />"+temp_rt+"...");
                       }
                       else{
-                        rt = temp_rt + "...";
+                        rt = SerializeResult(temp_rt + "...");
                       }
                       
                       std::cout<<"temp partial st: "<<acts_.seg_sts_[nsts-1]<<" end: "<<end_spl_idx/samples_per_frame<<std::endl;
-                      std::cout<<"all segs rt : "<<all_segs_rt<<std::endl;
+                      std::cout<<"before temp all segs rt : "<<all_segs_rt<<std::endl;
                       std::cout<<"temp partial result : "<<temp_rt<<std::endl; 
-                      std::cout<<"act percent: "<<act_percent <<std::endl;
+                      std::cout<<"temp act percent: "<<act_percent <<std::endl;
                       OnPartialResult(rt); 
                     }
                   }
@@ -436,16 +474,42 @@ void ConnectionHandler::reset(){
 
 std::string ConnectionHandler::Get_segs_result(){
   std::string rt;
+  std::vector<std::string> val_segs;
+  
+  
   for(int i=0;i<seginfos_.size();i++){
-    if(seginfos_[i].result != ""){
-      if(seginfos_[i].result.size()>6){
-        std::cout<<"seg-i size : "<<seginfos_[i].result.size()<<"  result : "<<seginfos_[i].result<<std::endl;
-        rt += seginfos_[i].result + "，";
-      }
+    std::string temp_rt = seginfos_[i].result;
+    if(Check(temp_rt)){
+      std::cout<<"seg " <<i<<" vad result : temp_rt"<<std::endl;
+      val_segs.emplace_back(temp_rt);
     }
+    else{
+      std::cout<<"seg " <<i<<" invad result : temp_rt"<<std::endl;
+    }
+  }
+
+  int n = val_segs.size();
+  if(n>0){
+    for(int i=0;i<n-1;i++){
+      rt += val_segs[i] + "，";
+    }
+    rt += val_segs.back();
   }
   return rt;
 }
+
+bool ConnectionHandler::Check(std::string seg_rt){
+  for(int i=0;i<noises_.size();i++){
+    if(seg_rt == noises_[i]){
+      return false;
+    }
+    if(seg_rt.size()<6){
+      return false;
+    }
+  }
+  return true;
+}
+
 
 void WebSocketServer::Start() {
   try {
