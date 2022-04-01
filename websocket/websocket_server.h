@@ -6,6 +6,8 @@
 #include <string>
 #include <thread>
 #include <utility>
+#include <queue>
+
 
 #include "boost/asio/connect.hpp"
 #include "boost/asio/ip/tcp.hpp"
@@ -34,7 +36,7 @@ class ConnectionHandler {
  private:
   void OnSpeechStart();
   void OnSpeechEnd();
-  void OnText(const std::string& message);
+  int OnText(const std::string& message);
   void OnFinish();
   void OnSpeechData(const beast::flat_buffer& buffer);
   void OnError(const std::string& message);
@@ -43,6 +45,9 @@ class ConnectionHandler {
   void DecodeThreadFunc();
   std::string SerializeResult(bool finish);
   std::string SerializeResult(std::string raw_str);
+  std::string get_rsp_jsonstr(std::string text, int status, int role=0);
+  void OnResult(std::string content);
+  void OnStart();
 
   void reset();
   std::string Get_segs_result();
@@ -85,6 +90,12 @@ class ConnectionHandler {
   Httpaudio httpaudio_;
   std::vector<Seginfo> seginfos_;
   //std::shared_ptr<httplib::Client> pcli;
+
+  /*
+  std::mutex data_mut_;
+  std::queue<vector<int16_t>> chunks_; 
+  std::condition_variable cond_;
+  std::vector<pair<int, int> >  boundries_; */
  };
 
 class WebSocketServer {

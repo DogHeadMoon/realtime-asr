@@ -25,13 +25,47 @@ target_include_directories(
       ${PRJ_DIR}/thirdparty/cppcodec
       ${PRJ_DIR}/vad/thirdparty/webrtc   
       /DATA/disk1/duyao/workplace/asr/libs/boost_1_78_0
-      
 )
 
 link_directories(${PRJ_DIR}/libs)
 
 target_link_libraries(
   realtime-asr
+  PRIVATE
+    ${PRJ_DIR}/libs/libjsoncpp.a
+    pthread
+    #-lidn -lrt -lcrypto -lssl
+    #/home/duyao/workplace/tri/client/build/install/lib/grpcclient_static.a
+    #/home/duyao/workplace/tri/client/build/install/lib/httpclient_static
+)
+
+
+
+file(GLOB CLIENT_SRC_FILES 
+  bin/client.cc
+  websocket/websocket_client.cc
+)
+
+
+add_executable(
+    wsclient
+    ${CLIENT_SRC_FILES}
+)
+
+target_include_directories(
+  wsclient
+    PUBLIC
+      ${PRJ_DIR}
+      ${PRJ_DIR}/thirdparty
+      ${PRJ_DIR}/thirdparty/cppcodec
+      ${PRJ_DIR}/vad/thirdparty/webrtc   
+      /DATA/disk1/duyao/workplace/asr/libs/boost_1_78_0
+)
+
+link_directories(${PRJ_DIR}/libs)
+
+target_link_libraries(
+  wsclient
   PRIVATE
     ${PRJ_DIR}/libs/libjsoncpp.a
     pthread

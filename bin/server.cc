@@ -6,6 +6,10 @@
 #include <ctime>
 #include <iomanip>
 
+
+#include "spdlog/spdlog.h"
+#include "spdlog/sinks/rotating_file_sink.h"
+
 using namespace std;
 
 int get_audio(string js, string& audio_base64, string& id){
@@ -21,14 +25,17 @@ int get_audio(string js, string& audio_base64, string& id){
 
 int main(int argc, char* argv[])
 {
-  cout<<"listen on "<< argv[1]<<endl;
+  // create a file rotating logger with 5mb size max and 3 rotated files
+  auto logger = spdlog::rotating_logger_mt("file_logger", "wsserver.log", 1024 * 1024 * 100, 3);
+  logger->info("listen on {}", argv[1]);
+  logger->flush();
 
   VadInst* pvad_inst = WebRtcVad_Create();
   WebRtcVad_Init(pvad_inst);
   WebRtcVad_set_mode(pvad_inst, 1);
 
   kingsoft::WebSocketServer wss(atoi(argv[1]), pvad_inst);
-  cout<<"listen on "<< argv[1]<<endl;
   wss.Start();
   delete pvad_inst;
+  return 0;
 }

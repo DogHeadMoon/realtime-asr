@@ -60,35 +60,37 @@ void Acts::add_act(int act, bool last){
     acts_.emplace_back(act);
     
     int nframes = acts_.size();
-    if(nframes % window_ == 0){
+    if(nframes % window_ == 0 || last){
         int window_idx = (nframes-1)/window_;
-        int status = check_window(window_idx);
-        wind_stats_.emplace_back(status);
+        int state = check_window(window_idx);
+        wind_stats_.emplace_back(state);
         int nwind = wind_stats_.size();
 
-        if(status == 1){
+        if(state == 1){
             if(seg_sts_.size() == seg_ends_.size()){
                 seg_sts_.emplace_back(nframes-1);
                 std::cout<<"seg sts emplace_back frame idx : "<<nframes-1<<std::endl;
             }
         }
-        else if(status == 2){
-            std::cout<<"status == 2 "<<nframes-1<<std::endl;
+
+        if(state == 2 ||last){
+            std::cout<<"status == 2 or last"<<nframes-1<<std::endl;
             //if((seg_sts_.size() == seg_ends_.size() + 1) || last) {
             int st = 0;
             if(seg_sts_.size()>0){
                 st = seg_sts_.back();
             }
             int dur = nframes-1 - st;
+            std::cout<<"status == 2 or last"<<nframes-1<<std::endl;
+            std::cout<<"status == 2 or last dur :"<<dur<<std::endl;
             if( ((seg_sts_.size() == seg_ends_.size() + 1) && dur>200)   || last ) {
                 seg_ends_.emplace_back(nframes-1);
                 std::cout<<"seg ends emplace_back frame idx : "<<nframes-1<<std::endl;
                 last_seg_idx_ = nframes-1;
             }
         }
-        else{
-        }
     }
+
 }
 
 int Acts::get_seg_size(){
