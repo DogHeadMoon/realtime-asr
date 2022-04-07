@@ -181,7 +181,6 @@ void ConnectionHandler::DecodeThreadFunc() {
 
       const int samples_per_frame = 160;
       int nranges = rcv_range_smps_.size();     
-      std::cout<<"nranges : "<<nranges <<std::endl;
       if(nranges > last_nranges_){
         //std::cout<<"nranges : "<<nranges << "  lastnranges : "<<last_nranges_<<std::endl;
         int end_spl_idx = rcv_range_smps_[nranges-1].second;
@@ -338,6 +337,8 @@ int ConnectionHandler::OnText(const std::string& message) {
   std::string base64_str = root.get("audio", "").asString();
   std::string format = root.get("format", "").asString();
 
+  std::cout<<"get message status : "<<status<<std::endl;
+
   if(base64_str.size()>0){
     std::vector<uint8_t> decoded = base64::decode(base64_str);
     
@@ -431,11 +432,11 @@ std::string ConnectionHandler::Get_segs_result(){
   for(int i=0;i<seginfos_.size();i++){
     std::string temp_rt = seginfos_[i].result;
     if(Check(temp_rt)){
-      std::cout<<"seg " <<i<<" vad result : temp_rt"<<std::endl;
+      std::cout<<"seg " <<i<<" vad result : "<< temp_rt<<std::endl;
       val_segs.emplace_back(temp_rt);
     }
     else{
-      std::cout<<"seg " <<i<<" invad result : temp_rt"<<std::endl;
+      std::cout<<"seg " <<i<<" invad result : "<<temp_rt<<std::endl;
     }
   }
 
