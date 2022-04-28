@@ -1,0 +1,4311 @@
+listen on 10087
+listen on 10087
+hello, svr start 
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+hello , handle opertor ()
+recived message : {"signal":"start","nbest":1,"continuous_decoding":true}
+Recieved speech start signal, start reading speech
+OnSpeechStart()
+operator() buffer n samples : 6848
+status == 2 14
+status == 2 29
+operator() buffer n samples : 5483
+status == 2 44
+status == 2 59
+operator() buffer n samples : 5483
+seg sts emplace_back frame idx : 89
+status == 2 104
+act percent : 0.238095
+operator() buffer n samples : 5482
+act percent : 0.714286
+operator() buffer n samples : 5483
+act percent : 0.822222
+operator() buffer n samples : 5483
+act percent : 0.870968
+operator() buffer n samples : 5482
+act percent : 0.898734
+temp partial st: 89 end: 247
+before temp all segs rt : 
+temp partial result : 现在好吃
+temp act percent: 0.898734
+operator() buffer n samples : 5483
+act percent : 0.916667
+temp partial st: 89 end: 281
+before temp all segs rt : 
+temp partial result : 现在我测试一下
+temp act percent: 0.916667
+operator() buffer n samples : 5483
+act percent : 0.902655
+temp partial st: 89 end: 315
+before temp all segs rt : 
+temp partial result : 现在我测试一下
+temp act percent: 0.902655
+operator() buffer n samples : 5482
+act percent : 0.884615
+temp partial st: 89 end: 349
+before temp all segs rt : 
+temp partial result : 现在测试一下
+temp act percent: 0.884615
+operator() buffer n samples : 5483
+act percent : 0.897959
+temp partial st: 89 end: 383
+before temp all segs rt : 
+temp partial result : 现在测试一下我们的
+temp act percent: 0.897959
+operator() buffer n samples : 5483
+act percent : 0.908815
+temp partial st: 89 end: 418
+before temp all segs rt : 
+temp partial result : 现在测试一下我们的事情
+temp act percent: 0.908815
+operator() buffer n samples : 5482
+act percent : 0.917355
+temp partial st: 89 end: 452
+before temp all segs rt : 
+temp partial result : 现在我测试一下我们的实力
+temp act percent: 0.917355
+operator() buffer n samples : 5483
+act percent : 0.911839
+temp partial st: 89 end: 486
+before temp all segs rt : 
+temp partial result : 现在我测试一下我们的实力值
+temp act percent: 0.911839
+operator() buffer n samples : 5483
+status == 2 509
+seg ends emplace_back frame idx : 509
+seg 0 st: 89 end: 509   nframes : 420
+seg 0  acts percentage : 0.861905
+seg 0 partial seg result : 现在我测试一下我们的实力
+seg 0 vad result : temp_rt
+operator() buffer n samples : 5482
+status == 2 524
+status == 2 539
+operator() buffer n samples : 5483
+status == 2 554
+status == 2 569
+status == 2 584
+operator() buffer n samples : 5483
+status == 2 599
+status == 2 614
+operator() buffer n samples : 5482
+status == 2 629
+seg sts emplace_back frame idx : 644
+act percent : 0.75
+operator() buffer n samples : 5483
+status == 2 674
+status == 2 689
+act percent : 0.191489
+operator() buffer n samples : 5483
+status == 2 704
+act percent : 0.358025
+operator() buffer n samples : 5482
+act percent : 0.547826
+operator() buffer n samples : 5483
+act percent : 0.651007
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 793
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始
+temp act percent: 0.651007
+operator() buffer n samples : 5483
+act percent : 0.715847
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 827
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行
+temp act percent: 0.715847
+operator() buffer n samples : 5482
+act percent : 0.760369
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 861
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行一个
+temp act percent: 0.760369
+operator() buffer n samples : 5483
+act percent : 0.792829
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 895
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行一个会议
+temp act percent: 0.792829
+operator() buffer n samples : 5483
+act percent : 0.818182
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 930
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行一个会议的设置
+temp act percent: 0.818182
+operator() buffer n samples : 5482
+act percent : 0.8375
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 964
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行一个会议的测试
+temp act percent: 0.8375
+operator() buffer n samples : 5483
+act percent : 0.833333
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 998
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行一个会议的测试
+temp act percent: 0.833333
+operator() buffer n samples : 5483
+act percent : 0.847938
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 1032
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行一个会议的测试看一看
+temp act percent: 0.847938
+operator() buffer n samples : 5482
+act percent : 0.86019
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 1066
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行一个会议的测试看一看
+temp act percent: 0.86019
+operator() buffer n samples : 5483
+act percent : 0.870614
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 1100
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行一个会议的测试看一看他们城市
+temp act percent: 0.870614
+operator() buffer n samples : 5483
+act percent : 0.879592
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 1134
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行一个会议的测试看一看他们从上楼
+temp act percent: 0.879592
+operator() buffer n samples : 5482
+act percent : 0.887405
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 1168
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行一个会议的测试看一看他们从效果怎么样
+temp act percent: 0.887405
+operator() buffer n samples : 5483
+act percent : 0.894454
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 1203
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行一个会议的测试看一看他们从效果怎么样
+temp act percent: 0.894454
+operator() buffer n samples : 5483
+act percent : 0.900506
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 1237
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行一个会议的测试看一看他们从效果怎么样
+temp act percent: 0.900506
+operator() buffer n samples : 5482
+act percent : 0.905901
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 1271
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行一个会议的测试看一看他们从上楼怎么样
+temp act percent: 0.905901
+operator() buffer n samples : 5483
+act percent : 0.910741
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 1305
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行一个会议的测试看一看他们从上楼怎么样我
+temp act percent: 0.910741
+operator() buffer n samples : 5483
+act percent : 0.915108
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 1339
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行一个会议的测试看一看他们从上楼怎么样我们就在
+temp act percent: 0.915108
+operator() buffer n samples : 5482
+act percent : 0.919067
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 1373
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每就在从小开什么
+temp act percent: 0.919067
+operator() buffer n samples : 5483
+act percent : 0.922674
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 1407
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行一个会议的测试看一看他们从上楼怎么样我女学在从小孩底前面关系
+temp act percent: 0.922674
+operator() buffer n samples : 5483
+act percent : 0.920954
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 1441
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行一个会议的测试看一看他们从上楼怎么样和女学在从小孩底前面没关系
+temp act percent: 0.920954
+operator() buffer n samples : 5482
+act percent : 0.909856
+seg 0 vad result : temp_rt
+temp partial st: 644 end: 1476
+before temp all segs rt : 现在我测试一下我们的实力
+temp partial result : 我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系
+temp act percent: 0.909856
+operator() buffer n samples : 5483
+status == 2 1484
+seg ends emplace_back frame idx : 1484
+status == 2 1499
+seg 1 st: 644 end: 1484   nframes : 840
+seg 1  acts percentage : 0.90119
+seg 1 partial seg result : 我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+operator() buffer n samples : 5483
+status == 2 1514
+status == 2 1529
+operator() buffer n samples : 5482
+seg sts emplace_back frame idx : 1559
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+operator() buffer n samples : 5482
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+temp partial st: 1559 end: 1680
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系
+temp partial result : 车没没我做的之前
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+temp partial st: 1559 end: 1714
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系
+temp partial result : 车没没有走之前
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+temp partial st: 1559 end: 1749
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系
+temp partial result : 没有做之前没有那么魔辑
+temp act percent: 1
+operator() buffer n samples : 5482
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+temp partial st: 1559 end: 1783
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系
+temp partial result : 没有做之前没有做过这个
+temp act percent: 1
+operator() buffer n samples : 5483
+status == 2 1814
+seg ends emplace_back frame idx : 1814
+seg 2 st: 1559 end: 1814   nframes : 255
+seg 2  acts percentage : 0.941176
+seg 2 partial seg result : 没有做之前没有做过这个
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+operator() buffer n samples : 5483
+seg sts emplace_back frame idx : 1829
+act percent : 0.0909091
+operator() buffer n samples : 5482
+status == 2 1859
+status == 2 1874
+act percent : 0.0892857
+operator() buffer n samples : 5483
+act percent : 0.433333
+operator() buffer n samples : 5483
+act percent : 0.58871
+operator() buffer n samples : 5482
+act percent : 0.679245
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+temp partial st: 1829 end: 1988
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个
+temp partial result : 那个像我
+temp act percent: 0.679245
+operator() buffer n samples : 5483
+act percent : 0.735751
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+temp partial st: 1829 end: 2022
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个
+temp partial result : 那个相关系列是吧
+temp act percent: 0.735751
+operator() buffer n samples : 5483
+act percent : 0.713656
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+temp partial st: 1829 end: 2056
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个
+temp partial result : 那个相关系列是吧
+temp act percent: 0.713656
+operator() buffer n samples : 5482
+status == 2 2069
+seg ends emplace_back frame idx : 2069
+status == 2 2084
+seg 3 st: 1829 end: 2069   nframes : 240
+seg 3  acts percentage : 0.675
+seg 3 partial seg result : 那个相关系列是吧
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+operator() buffer n samples : 5483
+status == 2 2099
+seg sts emplace_back frame idx : 2114
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+operator() buffer n samples : 5482
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2226
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 三十年
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2261
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 三十年
+temp act percent: 1
+operator() buffer n samples : 5482
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2295
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 三十年
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2329
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 三十年我没有走强
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2363
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 三十年我没有走枪
+temp act percent: 1
+operator() buffer n samples : 5482
+act percent : 0.978799
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2397
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 三十年我没有走枪
+temp act percent: 0.978799
+operator() buffer n samples : 5483
+act percent : 0.981073
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2431
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我没有做枪
+temp act percent: 0.981073
+operator() buffer n samples : 5483
+act percent : 0.982906
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2465
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我没有做枪
+temp act percent: 0.982906
+operator() buffer n samples : 5482
+act percent : 0.984416
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2499
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我们没有做商品就是名的
+temp act percent: 0.984416
+operator() buffer n samples : 5483
+act percent : 0.985714
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2534
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 二十年我们没有做商品就是您的
+temp act percent: 0.985714
+operator() buffer n samples : 5483
+act percent : 0.986784
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2568
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 二十年我们没有做商品的就是您的一个线
+temp act percent: 0.986784
+operator() buffer n samples : 5482
+act percent : 0.987705
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2602
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 二十年我们没有做商品的就是您的一个戏统
+temp act percent: 0.987705
+operator() buffer n samples : 5483
+act percent : 0.975096
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2636
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 二十年我没有做枪品是以您的一个戏份方强
+temp act percent: 0.975096
+operator() buffer n samples : 5483
+act percent : 0.976619
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2670
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 二十年我没有做商品就是以您的一个戏范方产
+temp act percent: 0.976619
+operator() buffer n samples : 5482
+act percent : 0.977966
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2704
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 二十年我没有做商品就是您的一个戏方方强
+temp act percent: 0.977966
+operator() buffer n samples : 5483
+act percent : 0.979167
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2738
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 二十年我没有做商品的就是您的一个戏方方强就果有语言背景
+temp act percent: 0.979167
+operator() buffer n samples : 5483
+act percent : 0.980243
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2772
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 二十年我没有做枪品的就是您的一个戏方方向就果有语言背景
+temp act percent: 0.980243
+operator() buffer n samples : 5482
+act percent : 0.981241
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2807
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 二十年我没有做商品的就是您的一个戏方方向就是果有语言背景
+temp act percent: 0.981241
+operator() buffer n samples : 5483
+act percent : 0.955984
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2841
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 二十年我没有做枪品的就是您的一个戏方方向就是果有语言背景
+temp act percent: 0.955984
+operator() buffer n samples : 5483
+act percent : 0.947438
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2875
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 二十年我没有做枪品的就是以您的一个戏方方向就是果有语言背景
+temp act percent: 0.947438
+operator() buffer n samples : 5482
+act percent : 0.949686
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2909
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 二十年我没有做枪品的就是您的一个戏方方向就是果有语言背景其
+temp act percent: 0.949686
+operator() buffer n samples : 5483
+act percent : 0.951749
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2943
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 二十年我没有做枪品就是您的一个戏方方强就果有语言背景
+temp act percent: 0.951749
+operator() buffer n samples : 5483
+act percent : 0.95365
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 2977
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 二十年我们没有做商品就是以您的一个细方方向就果有语言背景在细方方
+temp act percent: 0.95365
+operator() buffer n samples : 5482
+act percent : 0.955407
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3011
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 二十年我没有做商品就是您的一个细方方向就果有语言背景在细方方向前
+temp act percent: 0.955407
+operator() buffer n samples : 5483
+act percent : 0.957082
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3046
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 二十年我没有做商品就是您的一个细方方向就是果有语言背景在细方方向切换
+temp act percent: 0.957082
+operator() buffer n samples : 5483
+act percent : 0.958592
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3080
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 二十年我没有做商品就是以您的一个细方方向就是果有语言背景在细方方向切换
+temp act percent: 0.958592
+operator() buffer n samples : 5482
+act percent : 0.96
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3114
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 二十年我没有做商品就是您的一个细方方向就果有语言背景在细方方向的切换
+temp act percent: 0.96
+operator() buffer n samples : 5483
+act percent : 0.961315
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3148
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我们没有做商品就是您的一个细方方向就果有语言背景在细方方向的切换是相对比
+temp act percent: 0.961315
+operator() buffer n samples : 5483
+act percent : 0.962547
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3182
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我们没有做商品就是以您的一个细方方向就是果有语言背景在细方方向的切换是相对比较好
+temp act percent: 0.962547
+operator() buffer n samples : 5482
+act percent : 0.963702
+operator() buffer n samples : 5483
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3216
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我们没有做商品就是您的一个细方方向就果有语言背景在细方方向的切换是相对比较好
+temp act percent: 0.963702
+act percent : 0.952465
+operator() buffer n samples : 5483
+operator() buffer n samples : 5482
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3250
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我们没有做商品就是以您的一个细方方向就果有语言背景在细方方向的切换是相对比较好
+temp act percent: 0.952465
+act percent : 0.955187
+operator() buffer n samples : 5483
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3319
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我没有做商品就是以您的一个细方方向就果有语言背景在细方方向的切换是相对比较好的
+temp act percent: 0.955187
+act percent : 0.956416
+operator() buffer n samples : 5483
+operator() buffer n samples : 5482
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3353
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我没有做商品就是您的一个细方方向就果有语言背景在细方方向的切换是相对比较好容易的
+temp act percent: 0.956416
+act percent : 0.952563
+operator() buffer n samples : 5483
+operator() buffer n samples : 5483
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3421
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我没有做商品就是您的一个细方方向就果有语言背景在细方方向切换是相对比较好迥易的
+temp act percent: 0.952563
+act percent : 0.954909
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3489
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我没有做商品就是您的一个细方方向就果有语言背景在细方方向切换是相对比较好迥易的就说完人分的也好
+temp act percent: 0.954909
+operator() buffer n samples : 5482
+act percent : 0.955997
+operator() buffer n samples : 5483
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3523
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我没有做商品就是您的一个细方方向就果有语言背景在细方方向切换是相对比较好迥易的就说完人分的
+temp act percent: 0.955997
+act percent : 0.945946
+operator() buffer n samples : 5483
+operator() buffer n samples : 5482
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3557
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我没有做商品就是您的一个细方方向就果有语言背景在细方方向切换是相对比较好迥易的就说王人分的
+temp act percent: 0.945946
+act percent : 0.948413
+operator() buffer n samples : 5483
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3626
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我没有做商品就是您的一个细方方向就果有语言背景是细方方向切换是相对比较好迥易的就说完人分的说话
+temp act percent: 0.948413
+act percent : 0.949547
+operator() buffer n samples : 5483
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3660
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我没有做商品就是您的一个细方方向就果有语言背景是戏方方向切换是相对比较好迥易的就说完人分的说话生命
+temp act percent: 0.949547
+act percent : 0.949367
+operator() buffer n samples : 5482
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3694
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我没有做商品就是您的一个细方方向就果有语言背景戏方方向切换是相对比较好迥易的就说完人分的说话真理
+temp act percent: 0.949367
+act percent : 0.950434
+operator() buffer n samples : 5483
+operator() buffer n samples : 5483
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3728
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我没有做商品就是您的一个细方方向就果有语言背景戏方方向切换是相对比较好迥易的就说完人分的说话真理
+temp act percent: 0.950434
+act percent : 0.952438
+operator() buffer n samples : 5482
+operator() buffer n samples : 5483
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3796
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我没有做商品就是您的一个细方方向就果有语言背景在戏方方向切换是相对比较好迥易的就说完人分的说话整理也差不多
+temp act percent: 0.952438
+act percent : 0.954312
+operator() buffer n samples : 5483
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3865
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我没有做商应就是您的一个细方方向就果有语言背景戏方方向切换是相对比较好迥易的就说完人分的说话整理也差不多其双
+temp act percent: 0.954312
+act percent : 0.955182
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3899
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我们没有做商应就是您的一个细方方向就果有语面背景跟戏方方向切换是相对比较好迥易的就说完人分的说话整理也差不多其实双万分泌一点
+temp act percent: 0.955182
+operator() buffer n samples : 5482
+act percent : 0.95602
+operator() buffer n samples : 5483
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3933
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 十二十年我没有做商应就是您的一个细方方向就果有语面背景在细方方向切换是相对比较好迥易的就说完人分的说话整理也差不多其实双万分命
+temp act percent: 0.95602
+act percent : 0.956827
+operator() buffer n samples : 5483
+operator() buffer n samples : 5482
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 3967
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 三二十年我们没有做商应就是您的一个细方方向就果有语面背景细方方向切换是相对比较好迥易的就说完人分的说话整理也差不多其实双万分命经三万是
+temp act percent: 0.956827
+act percent : 0.948985
+operator() buffer n samples : 5483
+operator() buffer n samples : 5483
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 4035
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 三二十年们没有做商应就是您的一个细方方向就果有语面背景在戏方方向切换是相对比较好迥易的就说完人分的说话整命也差不多其实双方分泌经三万是低的
+temp act percent: 0.948985
+act percent : 0.950754
+operator() buffer n samples : 5482
+operator() buffer n samples : 5483
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+temp partial st: 2114 end: 4104
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧
+temp partial result : 三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在戏方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要
+temp act percent: 0.950754
+status == 2 4124
+seg ends emplace_back frame idx : 4124
+seg sts emplace_back frame idx : 4139
+seg 4 st: 2114 end: 4124   nframes : 2010
+seg 4  acts percentage : 0.941791
+operator() buffer n samples : 5483
+operator() buffer n samples : 5482
+operator() buffer n samples : 5483
+seg 4 partial seg result : 三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+act percent : 1
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+temp partial st: 4139 end: 4274
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要
+temp partial result : 满满一脸
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 0.964497
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+temp partial st: 4139 end: 4308
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要
+temp partial result : 满满一脸
+temp act percent: 0.964497
+operator() buffer n samples : 5482
+status == 2 4319
+act percent : 0.857143
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+temp partial st: 4139 end: 4342
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要
+temp partial result : 满满一脸
+temp act percent: 0.857143
+operator() buffer n samples : 5483
+act percent : 0.878151
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+temp partial st: 4139 end: 4377
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要
+temp partial result : 蛮难一点
+temp act percent: 0.878151
+operator() buffer n samples : 5483
+act percent : 0.893382
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+temp partial st: 4139 end: 4411
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要
+temp partial result : 难一点
+temp act percent: 0.893382
+operator() buffer n samples : 5482
+act percent : 0.905229
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+temp partial st: 4139 end: 4445
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要
+temp partial result : 难一点
+temp act percent: 0.905229
+operator() buffer n samples : 5483
+act percent : 0.914706
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+temp partial st: 4139 end: 4479
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要
+temp partial result : 难一点因为是新飞期的作点
+temp act percent: 0.914706
+operator() buffer n samples : 5483
+act percent : 0.92246
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+temp partial st: 4139 end: 4513
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要
+temp partial result : 难一点因为心飞气的多的成功
+temp act percent: 0.92246
+operator() buffer n samples : 5482
+act percent : 0.875
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+temp partial st: 4139 end: 4547
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要
+temp partial result : 难一点因为心飞气的多的成功
+temp act percent: 0.875
+operator() buffer n samples : 5483
+status == 2 4559
+seg ends emplace_back frame idx : 4559
+seg sts emplace_back frame idx : 4574
+seg 5 st: 4139 end: 4559   nframes : 420
+seg 5  acts percentage : 0.85
+seg 5 partial seg result : 难一点因为心飞气的高的成功
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+act percent : 1
+operator() buffer n samples : 5483
+status == 2 4604
+act percent : 0.292683
+operator() buffer n samples : 5482
+status == 2 4619
+status == 2 4634
+status == 2 4649
+act percent : 0.157895
+operator() buffer n samples : 5483
+act percent : 0.3
+operator() buffer n samples : 5483
+act percent : 0.465278
+operator() buffer n samples : 5482
+act percent : 0.567416
+operator() buffer n samples : 5483
+act percent : 0.636792
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+temp partial st: 4574 end: 4786
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功
+temp partial result : 对不起那声音
+temp act percent: 0.636792
+operator() buffer n samples : 5483
+act percent : 0.634146
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+temp partial st: 4574 end: 4820
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功
+temp partial result : 对不起那声音
+temp act percent: 0.634146
+operator() buffer n samples : 5482
+act percent : 0.678571
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+temp partial st: 4574 end: 4854
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功
+temp partial result : 对我那时候这种感觉
+temp act percent: 0.678571
+operator() buffer n samples : 5483
+act percent : 0.714286
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+temp partial st: 4574 end: 4889
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功
+temp partial result : 对那时音感觉
+temp act percent: 0.714286
+operator() buffer n samples : 5483
+act percent : 0.713467
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+temp partial st: 4574 end: 4923
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功
+temp partial result : 对心的时候音感觉
+temp act percent: 0.713467
+operator() buffer n samples : 5482
+status == 2 4934
+seg ends emplace_back frame idx : 4934
+status == 2 4949
+seg 6 st: 4574 end: 4934   nframes : 360
+seg 6  acts percentage : 0.691667
+seg 6 partial seg result : 对心的时候音感觉
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+operator() buffer n samples : 5483
+status == 2 4964
+status == 2 4979
+operator() buffer n samples : 5483
+status == 2 4994
+seg sts emplace_back frame idx : 5009
+act percent : 1
+operator() buffer n samples : 5482
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+temp partial st: 5009 end: 5127
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉
+temp partial result : 对后面
+temp act percent: 1
+operator() buffer n samples : 5482
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+temp partial st: 5009 end: 5162
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉
+temp partial result : 对后面就会差
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 0.994652
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+temp partial st: 5009 end: 5196
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉
+temp partial result : 对后面就会差异
+temp act percent: 0.994652
+operator() buffer n samples : 5483
+status == 2 5219
+seg ends emplace_back frame idx : 5219
+seg 7 st: 5009 end: 5219   nframes : 210
+seg 7  acts percentage : 0.885714
+seg 7 partial seg result : 对后面就会差一点
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+operator() buffer n samples : 5482
+status == 2 5234
+status == 2 5249
+operator() buffer n samples : 5483
+status == 2 5264
+status == 2 5279
+status == 2 5294
+operator() buffer n samples : 5483
+status == 2 5309
+status == 2 5324
+operator() buffer n samples : 5482
+status == 2 5339
+status == 2 5354
+operator() buffer n samples : 5483
+status == 2 5369
+seg sts emplace_back frame idx : 5384
+act percent : 0.5625
+operator() buffer n samples : 5483
+act percent : 0.588235
+operator() buffer n samples : 5482
+act percent : 0.752941
+operator() buffer n samples : 5483
+act percent : 0.823529
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+temp partial st: 5384 end: 5503
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点
+temp partial result : 你多藏着
+temp act percent: 0.823529
+operator() buffer n samples : 5483
+act percent : 0.862745
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+temp partial st: 5384 end: 5537
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点
+temp partial result : 有常用的
+temp act percent: 0.862745
+operator() buffer n samples : 5482
+act percent : 0.887701
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+temp partial st: 5384 end: 5571
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点
+temp partial result : 有常用的
+temp act percent: 0.887701
+operator() buffer n samples : 5483
+act percent : 0.904977
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+temp partial st: 5384 end: 5605
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点
+temp partial result : 有常用的常用的
+temp act percent: 0.904977
+operator() buffer n samples : 5483
+act percent : 0.917647
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+temp partial st: 5384 end: 5639
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点
+temp partial result : 有常用的常用的
+temp act percent: 0.917647
+operator() buffer n samples : 5482
+act percent : 0.927336
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+temp partial st: 5384 end: 5673
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点
+temp partial result : 有常用的常用的他到了
+temp act percent: 0.927336
+operator() buffer n samples : 5483
+act percent : 0.935185
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+temp partial st: 5384 end: 5708
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点
+temp partial result : 有常用的常用的他到了通道门
+temp act percent: 0.935185
+operator() buffer n samples : 5483
+act percent : 0.941341
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+temp partial st: 5384 end: 5742
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点
+temp partial result : 就常用的常用的他到了通到门时的了
+temp act percent: 0.941341
+operator() buffer n samples : 5482
+act percent : 0.946429
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+temp partial st: 5384 end: 5776
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点
+temp partial result : 常用的常用的他到了吐到门时了
+temp act percent: 0.946429
+operator() buffer n samples : 5483
+act percent : 0.920188
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+temp partial st: 5384 end: 5810
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点
+temp partial result : 常用的常用的他到了吐盗门时的
+temp act percent: 0.920188
+operator() buffer n samples : 5483
+act percent : 0.926087
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+temp partial st: 5384 end: 5844
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点
+temp partial result : 常用的常用的他到了通盗门实际还可以
+temp act percent: 0.926087
+operator() buffer n samples : 5482
+act percent : 0.91498
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+temp partial st: 5384 end: 5878
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点
+temp partial result : 常用的常用的他到了通盗门实际还可以
+temp act percent: 0.91498
+operator() buffer n samples : 5483
+status == 2 5894
+seg ends emplace_back frame idx : 5894
+seg sts emplace_back frame idx : 5909
+seg 8 st: 5384 end: 5894   nframes : 510
+seg 8  acts percentage : 0.886275
+seg 8 partial seg result : 常用的常用的他到了通盗门实际还可以
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+act percent : 0.666667
+operator() buffer n samples : 5483
+status == 2 5939
+act percent : 0.0526316
+operator() buffer n samples : 5482
+status == 2 5954
+status == 2 5969
+act percent : 0.0277778
+operator() buffer n samples : 5483
+status == 2 5984
+status == 2 5999
+act percent : 0.0471698
+operator() buffer n samples : 5483
+act percent : 0.15
+operator() buffer n samples : 5482
+status == 2 6059
+status == 2 6074
+act percent : 0.12069
+operator() buffer n samples : 5483
+status == 2 6089
+status == 2 6104
+act percent : 0.100962
+operator() buffer n samples : 5483
+status == 2 6119
+seg ends emplace_back frame idx : 6119
+status == 2 6134
+status == 2 6149
+seg 9 st: 5909 end: 6119   nframes : 210
+seg 9  acts percentage : 0.1
+operator() buffer n samples : 5482
+status == 2 6164
+status == 2 6179
+operator() buffer n samples : 5483
+status == 2 6194
+status == 2 6209
+operator() buffer n samples : 5483
+status == 2 6224
+status == 2 6239
+operator() buffer n samples : 5482
+status == 2 6254
+status == 2 6269
+status == 2 6284
+operator() buffer n samples : 5483
+status == 2 6299
+seg sts emplace_back frame idx : 6314
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+operator() buffer n samples : 5482
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+temp partial st: 6314 end: 6424
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以
+temp partial result : 再看一下现在
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+temp partial st: 6314 end: 6458
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以
+temp partial result : 再看一看现在看一看
+temp act percent: 1
+operator() buffer n samples : 5482
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+temp partial st: 6314 end: 6493
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以
+temp partial result : 再看一看现在看一看
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+temp partial st: 6314 end: 6527
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以
+temp partial result : 再看一看现在看一看游戏
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+temp partial st: 6314 end: 6561
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以
+temp partial result : 再看一看现在看一看戏
+temp act percent: 1
+operator() buffer n samples : 5482
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+temp partial st: 6314 end: 6595
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以
+temp partial result : 再看一看现在看一看
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 0.965079
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+temp partial st: 6314 end: 6629
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以
+temp partial result : 我再看一看现在看一看戏非常怎么样
+temp act percent: 0.965079
+operator() buffer n samples : 5483
+status == 2 6644
+seg ends emplace_back frame idx : 6644
+status == 2 6659
+seg 10 st: 6314 end: 6644   nframes : 330
+seg 10  acts percentage : 0.921212
+seg 10 partial seg result : 再看一看现在看一看戏非常怎么样
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+operator() buffer n samples : 5482
+status == 2 6674
+status == 2 6689
+operator() buffer n samples : 5483
+status == 2 6704
+status == 2 6719
+operator() buffer n samples : 5483
+status == 2 6734
+status == 2 6749
+status == 2 6764
+operator() buffer n samples : 5482
+seg sts emplace_back frame idx : 6779
+act percent : 0.52381
+operator() buffer n samples : 5483
+act percent : 0.818182
+operator() buffer n samples : 5483
+act percent : 0.88764
+operator() buffer n samples : 5482
+act percent : 0.918699
+operator() buffer n samples : 5483
+act percent : 0.936306
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+temp partial st: 6779 end: 6936
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样
+temp partial result : 别有什么现呢
+temp act percent: 0.936306
+operator() buffer n samples : 5483
+act percent : 0.947644
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+temp partial st: 6779 end: 6970
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样
+temp partial result : 您什么先等一下
+temp act percent: 0.947644
+operator() buffer n samples : 5482
+act percent : 0.955752
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+temp partial st: 6779 end: 7005
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样
+temp partial result : 您为什么现在的效果
+temp act percent: 0.955752
+operator() buffer n samples : 5483
+act percent : 0.961538
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+temp partial st: 6779 end: 7039
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样
+temp partial result : 因为什么现在的效果是
+temp act percent: 0.961538
+operator() buffer n samples : 5483
+act percent : 0.965986
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+temp partial st: 6779 end: 7073
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样
+temp partial result : 因为为什么现在的效果是比较好
+temp act percent: 0.965986
+operator() buffer n samples : 5482
+act percent : 0.969512
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+temp partial st: 6779 end: 7107
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样
+temp partial result : 因为什么现在的效果是比较好
+temp act percent: 0.969512
+operator() buffer n samples : 5483
+act percent : 0.961326
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+temp partial st: 6779 end: 7141
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样
+temp partial result : 因为什么现在的效果是比较好啊
+temp act percent: 0.961326
+operator() buffer n samples : 5483
+act percent : 0.964646
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+temp partial st: 6779 end: 7175
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样
+temp partial result : 因为为什么现在的效果是比较看起来是
+temp act percent: 0.964646
+operator() buffer n samples : 5482
+act percent : 0.967442
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+temp partial st: 6779 end: 7209
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样
+temp partial result : 因为什么现在的效果是比较看起来是
+temp act percent: 0.967442
+operator() buffer n samples : 5483
+act percent : 0.969828
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+temp partial st: 6779 end: 7243
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样
+temp partial result : 因为为什么现在的效果是比较看起来是这样的
+temp act percent: 0.969828
+operator() buffer n samples : 5483
+act percent : 0.971944
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+temp partial st: 6779 end: 7278
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样
+temp partial result : 因为为什么现在的效果是比较看起来是一样的
+temp act percent: 0.971944
+operator() buffer n samples : 5482
+act percent : 0.969981
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+temp partial st: 6779 end: 7312
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样
+temp partial result : 因为什么现在的效果是比较看起来是这样的
+temp act percent: 0.969981
+operator() buffer n samples : 5483
+status == 2 7334
+seg ends emplace_back frame idx : 7334
+seg 11 st: 6779 end: 7334   nframes : 555
+seg 11  acts percentage : 0.931532
+seg 11 partial seg result : 为什么现在的效果是比较看起来是这样的
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+operator() buffer n samples : 5483
+status == 2 7349
+status == 2 7364
+status == 2 7379
+operator() buffer n samples : 5482
+seg sts emplace_back frame idx : 7394
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+operator() buffer n samples : 5482
+act percent : 1
+operator() buffer n samples : 5483
+status == 2 7544
+act percent : 0.796178
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7394 end: 7551
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 怎么样
+temp act percent: 0.796178
+operator() buffer n samples : 5483
+status == 2 7559
+status == 2 7574
+act percent : 0.65445
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7394 end: 7585
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 怎么样
+temp act percent: 0.65445
+operator() buffer n samples : 5482
+status == 2 7589
+status == 2 7604
+seg ends emplace_back frame idx : 7604
+seg 12 st: 7394 end: 7604   nframes : 210
+seg 12  acts percentage : 0.595238
+operator() buffer n samples : 5483
+status == 2 7619
+status == 2 7634
+status == 2 7649
+operator() buffer n samples : 5483
+status == 2 7664
+status == 2 7679
+operator() buffer n samples : 5482
+seg sts emplace_back frame idx : 7694
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+operator() buffer n samples : 5482
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7694 end: 7824
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 我有网上广播之流
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7694 end: 7858
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 我一晚上广播去
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7694 end: 7892
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 我一晚上广播去不不能
+temp act percent: 1
+operator() buffer n samples : 5482
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7694 end: 7926
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 我一晚上广播去波波能时间
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7694 end: 7994
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 不能因为现在
+temp act percent: 1
+operator() buffer n samples : 5482
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7694 end: 8028
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 因为我职业不波能因为现在那个
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7694 end: 8063
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 因为我职业不能因为现在那个
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7694 end: 8097
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 因为我们不能因为现在那个雨料量
+temp act percent: 1
+operator() buffer n samples : 5482
+act percent : 0.997712
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7694 end: 8131
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 因为我们很多业不能因为现在那个雨料量
+temp act percent: 0.997712
+operator() buffer n samples : 5483
+act percent : 0.997877
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7694 end: 8165
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 因为我们多职业不能因为现在那个雨料量
+temp act percent: 0.997877
+operator() buffer n samples : 5483
+act percent : 0.99802
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7694 end: 8199
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 因为我们多职业不能因为现在那个雨料量全市
+temp act percent: 0.99802
+operator() buffer n samples : 5482
+act percent : 0.998145
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7694 end: 8233
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 我们职业不能因为现在那个雨料量全是那个
+temp act percent: 0.998145
+operator() buffer n samples : 5483
+act percent : 0.998255
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7694 end: 8267
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 我们多职业不能因为现在雨料量全是那个
+temp act percent: 0.998255
+operator() buffer n samples : 5483
+act percent : 0.981878
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7694 end: 8301
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 为我们很多职业不能因为现在雨料量全是那个
+temp act percent: 0.981878
+operator() buffer n samples : 5482
+act percent : 0.982866
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7694 end: 8336
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 为我们很多职业不能因为现在雨料量全是那个
+temp act percent: 0.982866
+operator() buffer n samples : 5483
+act percent : 0.976331
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7694 end: 8370
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 为我们很多职业不能因为现在雨料量全是
+temp act percent: 0.976331
+operator() buffer n samples : 5483
+act percent : 0.977465
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7694 end: 8404
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 职业不能因为现在雨料量全是
+temp act percent: 0.977465
+operator() buffer n samples : 5482
+act percent : 0.978495
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+temp partial st: 7694 end: 8438
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的
+temp partial result : 我们多职业不能因为现在雨料量全是全是内种
+temp act percent: 0.978495
+operator() buffer n samples : 5483
+status == 2 8459
+seg ends emplace_back frame idx : 8459
+seg 13 st: 7694 end: 8459   nframes : 765
+seg 13  acts percentage : 0.955556
+seg 13 partial seg result : 我们多职业不能因为现在雨料量全是全是内种
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+operator() buffer n samples : 5483
+status == 2 8474
+seg sts emplace_back frame idx : 8489
+act percent : 1
+operator() buffer n samples : 5482
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 0.975
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+temp partial st: 8489 end: 8609
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种
+temp partial result : 很稳的
+temp act percent: 0.975
+operator() buffer n samples : 5482
+act percent : 0.909091
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+temp partial st: 8489 end: 8643
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种
+temp partial result : 中文的
+temp act percent: 0.909091
+operator() buffer n samples : 5483
+status == 2 8654
+act percent : 0.803191
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+temp partial st: 8489 end: 8677
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种
+temp partial result : 中文的诶
+temp act percent: 0.803191
+operator() buffer n samples : 5483
+act percent : 0.833333
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+temp partial st: 8489 end: 8711
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种
+temp partial result : 文文的
+temp act percent: 0.833333
+operator() buffer n samples : 5482
+act percent : 0.855469
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+temp partial st: 8489 end: 8745
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种
+temp partial result : 很稳的
+temp act percent: 0.855469
+operator() buffer n samples : 5483
+act percent : 0.855172
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+temp partial st: 8489 end: 8779
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种
+temp partial result : 很稳的因为我
+temp act percent: 0.855172
+operator() buffer n samples : 5483
+act percent : 0.87037
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+temp partial st: 8489 end: 8813
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种
+temp partial result : 文文的因为我
+temp act percent: 0.87037
+operator() buffer n samples : 5482
+act percent : 0.882682
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+temp partial st: 8489 end: 8847
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种
+temp partial result : 中文的因为我是画游戏
+temp act percent: 0.882682
+operator() buffer n samples : 5483
+act percent : 0.89313
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+temp partial st: 8489 end: 8882
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种
+temp partial result : 中文的因为我我十多画流行的时候
+temp act percent: 0.89313
+operator() buffer n samples : 5483
+act percent : 0.901639
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+temp partial st: 8489 end: 8916
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种
+temp partial result : 文文的因为我我是画流行的时候
+temp act percent: 0.901639
+operator() buffer n samples : 5482
+act percent : 0.908894
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+temp partial st: 8489 end: 8950
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种
+temp partial result : 英文的因为我我是换模型的时候的
+temp act percent: 0.908894
+operator() buffer n samples : 5483
+act percent : 0.915152
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+temp partial st: 8489 end: 8984
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种
+temp partial result : 中文的诶我我是换流行的时候我就这
+temp act percent: 0.915152
+operator() buffer n samples : 5483
+act percent : 0.920605
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+temp partial st: 8489 end: 9018
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种
+temp partial result : 文文的因为我是画流行的时候就一个这面
+temp act percent: 0.920605
+operator() buffer n samples : 5482
+act percent : 0.9254
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+temp partial st: 8489 end: 9052
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种
+temp partial result : 英文的因我是画游行的时候我就面
+temp act percent: 0.9254
+operator() buffer n samples : 5483
+act percent : 0.929648
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+temp partial st: 8489 end: 9086
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种
+temp partial result : 文文的因我是画游行的时候我就个面玩个时候
+temp act percent: 0.929648
+operator() buffer n samples : 5483
+act percent : 0.933544
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+temp partial st: 8489 end: 9121
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种
+temp partial result : 文的因我是画游型的时候我就面那个什么个
+temp act percent: 0.933544
+operator() buffer n samples : 5482
+act percent : 0.924925
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+temp partial st: 8489 end: 9155
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种
+temp partial result : 很文我是画流行的时候我就面玩个什么个
+temp act percent: 0.924925
+operator() buffer n samples : 5483
+status == 2 9164
+seg ends emplace_back frame idx : 9164
+seg 14 st: 8489 end: 9164   nframes : 675
+seg 14  acts percentage : 0.912593
+seg 14 partial seg result : 很文我是画流型的时候我就面玩个什么那个
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+operator() buffer n samples : 5483
+seg sts emplace_back frame idx : 9194
+act percent : 1
+operator() buffer n samples : 5482
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 0.969072
+operator() buffer n samples : 5483
+status == 2 9314
+act percent : 0.717557
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+temp partial st: 9194 end: 9325
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个
+temp partial result : 该我们
+temp act percent: 0.717557
+operator() buffer n samples : 5482
+status == 2 9329
+status == 2 9344
+act percent : 0.569697
+operator() buffer n samples : 5483
+status == 2 9359
+status == 2 9374
+status == 2 9389
+act percent : 0.49
+operator() buffer n samples : 5483
+act percent : 0.564103
+operator() buffer n samples : 5482
+act percent : 0.619403
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+temp partial st: 9194 end: 9462
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个
+temp partial result : 因为我那个有新春下
+temp act percent: 0.619403
+operator() buffer n samples : 5483
+act percent : 0.662252
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+temp partial st: 9194 end: 9496
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个
+temp partial result : 因为我有新春下来的
+temp act percent: 0.662252
+operator() buffer n samples : 5483
+act percent : 0.696429
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+temp partial st: 9194 end: 9530
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个
+temp partial result : 因为我要新春下来的黑
+temp act percent: 0.696429
+operator() buffer n samples : 5482
+act percent : 0.724324
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+temp partial st: 9194 end: 9564
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个
+temp partial result : 因为我要新春现在可以多不中
+temp act percent: 0.724324
+operator() buffer n samples : 5483
+act percent : 0.747525
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+temp partial st: 9194 end: 9598
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个
+temp partial result : 因为我那个要新春现在以多个中国
+temp act percent: 0.747525
+operator() buffer n samples : 5483
+act percent : 0.767123
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+temp partial st: 9194 end: 9632
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个
+temp partial result : 因为我那要新春现在我中国
+temp act percent: 0.767123
+operator() buffer n samples : 5482
+act percent : 0.784355
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+temp partial st: 9194 end: 9667
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个
+temp partial result : 因为有那要新春现在有很多个中国访的过程
+temp act percent: 0.784355
+operator() buffer n samples : 5483
+act percent : 0.796844
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+temp partial st: 9194 end: 9701
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个
+temp partial result : 因为我那个要新春现在有很多个中国访的过程啊
+temp act percent: 0.796844
+operator() buffer n samples : 5483
+status == 2 9719
+seg ends emplace_back frame idx : 9719
+status == 2 9734
+seg 15 st: 9194 end: 9719   nframes : 525
+seg 15  acts percentage : 0.775238
+seg 15 partial seg result : 因没有要新春现在有很多个中国访的过程
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+operator() buffer n samples : 5482
+status == 2 9749
+seg sts emplace_back frame idx : 9764
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+operator() buffer n samples : 5482
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+temp partial st: 9764 end: 9871
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程
+temp partial result : 这个我怎么样
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+temp partial st: 9764 end: 9905
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程
+temp partial result : 这个我怎么样
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 0.948864
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+temp partial st: 9764 end: 9940
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程
+temp partial result : 这个我们想工作
+temp act percent: 0.948864
+operator() buffer n samples : 5482
+status == 2 9959
+act percent : 0.795238
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+temp partial st: 9764 end: 9974
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程
+temp partial result : 这个我们想工作
+temp act percent: 0.795238
+operator() buffer n samples : 5483
+status == 2 9974
+seg ends emplace_back frame idx : 9974
+status == 2 9989
+status == 2 10004
+seg 16 st: 9764 end: 9974   nframes : 210
+seg 16  acts percentage : 0.795238
+seg 16 partial seg result : 这个我们想工作
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+operator() buffer n samples : 5483
+status == 2 10019
+status == 2 10034
+operator() buffer n samples : 5482
+status == 2 10049
+status == 2 10064
+operator() buffer n samples : 5483
+status == 2 10079
+seg sts emplace_back frame idx : 10094
+act percent : 0.5
+operator() buffer n samples : 5483
+status == 2 10124
+status == 2 10139
+act percent : 0.16
+operator() buffer n samples : 5482
+status == 2 10154
+status == 2 10169
+act percent : 0.0941176
+operator() buffer n samples : 5483
+status == 2 10184
+act percent : 0.210084
+operator() buffer n samples : 5483
+act percent : 0.385621
+operator() buffer n samples : 5482
+act percent : 0.497326
+operator() buffer n samples : 5483
+act percent : 0.574661
+operator() buffer n samples : 5483
+act percent : 0.631373
+operator() buffer n samples : 5482
+act percent : 0.67474
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 10383
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 然后这个效果怎么
+temp act percent: 0.67474
+operator() buffer n samples : 5483
+act percent : 0.708978
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 10417
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个效果怎么这么差
+temp act percent: 0.708978
+operator() buffer n samples : 5483
+act percent : 0.73743
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 10452
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个效果怎么这么对啊
+temp act percent: 0.73743
+operator() buffer n samples : 5482
+act percent : 0.760204
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 10486
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个事我怎么这么对啊
+temp act percent: 0.760204
+operator() buffer n samples : 5483
+act percent : 0.779343
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 10520
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个事我怎么这么对啊
+temp act percent: 0.779343
+operator() buffer n samples : 5483
+act percent : 0.795652
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 10554
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个事我怎么这么对啊这个我
+temp act percent: 0.795652
+operator() buffer n samples : 5482
+act percent : 0.809717
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 10588
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个事我怎么这么对啊这个
+temp act percent: 0.809717
+operator() buffer n samples : 5483
+act percent : 0.82197
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 10622
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个事我怎么这么对啊这个我
+temp act percent: 0.82197
+operator() buffer n samples : 5483
+act percent : 0.83274
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 10656
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个事我怎么这么对啊这个我待会我再测一下
+temp act percent: 0.83274
+operator() buffer n samples : 5482
+act percent : 0.842282
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 10690
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个事我怎么这么对啊这个我会我待会再测一下
+temp act percent: 0.842282
+operator() buffer n samples : 5483
+act percent : 0.85103
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 10725
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个事我怎么这么对啊这个我待会我待会再测一下
+temp act percent: 0.85103
+operator() buffer n samples : 5483
+act percent : 0.858647
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 10759
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个事我怎么这么对啊个我再测一下
+temp act percent: 0.858647
+operator() buffer n samples : 5482
+act percent : 0.865522
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 10793
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个事我怎么这么对这个我会我再测一下因为更换
+temp act percent: 0.865522
+operator() buffer n samples : 5483
+act percent : 0.87176
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 10827
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个事我怎么这么对啊这个我待会我再测一下因为更换了一关
+temp act percent: 0.87176
+operator() buffer n samples : 5483
+act percent : 0.877445
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 10861
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个事我怎么这么对啊这个我待会我当会再测一下因为更换了一完全
+temp act percent: 0.877445
+operator() buffer n samples : 5482
+act percent : 0.876405
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 10895
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个事我怎么这么对啊这个我待会我当再测一下因为更换了一完全过
+temp act percent: 0.876405
+operator() buffer n samples : 5483
+act percent : 0.881437
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 10929
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个事我怎么这么对啊这个我待会我再测一下因为更换了完全过
+temp act percent: 0.881437
+operator() buffer n samples : 5483
+act percent : 0.886076
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 10963
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个事我怎么这么对啊这个我待会我当会再测一下因为更换了一完全过
+temp act percent: 0.886076
+operator() buffer n samples : 5482
+act percent : 0.890487
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 10998
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个事我怎么这么对啊这个我会我再测一下因为更换了一
+temp act percent: 0.890487
+operator() buffer n samples : 5483
+act percent : 0.894456
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 11032
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个事我怎么这么对这个我待会我再测一下因为更换了一完全过
+temp act percent: 0.894456
+operator() buffer n samples : 5483
+act percent : 0.898148
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+temp partial st: 10094 end: 11066
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作
+temp partial result : 这个事我怎么这么对这个我待会我会再测一下因为更换了一完全过
+temp act percent: 0.898148
+operator() buffer n samples : 5482
+status == 2 11084
+seg ends emplace_back frame idx : 11084
+status == 2 11099
+seg 17 st: 10094 end: 11084   nframes : 990
+seg 17  acts percentage : 0.881818
+seg 17 partial seg result : 这个事我怎么这么对这个我待会我再测一下因为更换了一全过
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+operator() buffer n samples : 5483
+status == 2 11114
+status == 2 11129
+operator() buffer n samples : 5483
+seg sts emplace_back frame idx : 11159
+act percent : 1
+operator() buffer n samples : 5482
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+temp partial st: 11159 end: 11271
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过
+temp partial result : 就是我同时的
+temp act percent: 1
+operator() buffer n samples : 5482
+act percent : 0.952055
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+temp partial st: 11159 end: 11305
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过
+temp partial result : 就是完同一次约出来
+temp act percent: 0.952055
+operator() buffer n samples : 5483
+act percent : 0.955556
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+temp partial st: 11159 end: 11339
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过
+temp partial result : 就是我同一次约出来
+temp act percent: 0.955556
+operator() buffer n samples : 5483
+act percent : 0.906542
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+temp partial st: 11159 end: 11373
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过
+temp partial result : 就是我同一次约出来
+temp act percent: 0.906542
+operator() buffer n samples : 5482
+status == 2 11384
+seg ends emplace_back frame idx : 11384
+status == 2 11399
+seg 18 st: 11159 end: 11384   nframes : 225
+seg 18  acts percentage : 0.862222
+seg 18 partial seg result : 就是我同一次约出来
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+operator() buffer n samples : 5483
+status == 2 11414
+status == 2 11429
+operator() buffer n samples : 5483
+status == 2 11444
+seg sts emplace_back frame idx : 11459
+act percent : 1
+operator() buffer n samples : 5482
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+operator() buffer n samples : 5483
+status == 2 11564
+act percent : 0.739496
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+temp partial st: 11459 end: 11578
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来
+temp partial result : 当然主播
+temp act percent: 0.739496
+operator() buffer n samples : 5482
+act percent : 0.797386
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+temp partial st: 11459 end: 11612
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来
+temp partial result : 当当然
+temp act percent: 0.797386
+operator() buffer n samples : 5483
+act percent : 0.834225
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+temp partial st: 11459 end: 11646
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来
+temp partial result : 当时我当了我胖子
+temp act percent: 0.834225
+operator() buffer n samples : 5483
+act percent : 0.859729
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+temp partial st: 11459 end: 11680
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来
+temp partial result : 当时我要让我看一下那个
+temp act percent: 0.859729
+operator() buffer n samples : 5482
+act percent : 0.878431
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+temp partial st: 11459 end: 11714
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来
+temp partial result : 当时我要让我看一下那个男孩
+temp act percent: 0.878431
+operator() buffer n samples : 5483
+status == 2 11744
+seg ends emplace_back frame idx : 11744
+seg 19 st: 11459 end: 11744   nframes : 285
+seg 19  acts percentage : 0.82807
+seg 19 partial seg result : 当时他让我看一下那个男孩
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+operator() buffer n samples : 5483
+status == 2 11759
+status == 2 11774
+operator() buffer n samples : 5482
+status == 2 11789
+status == 2 11804
+operator() buffer n samples : 5483
+seg sts emplace_back frame idx : 11819
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+operator() buffer n samples : 5482
+act percent : 1
+operator() buffer n samples : 5483
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+temp partial st: 11819 end: 11919
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩
+temp partial result : 变是那个幸福
+temp act percent: 1
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+temp partial st: 11819 end: 11953
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩
+temp partial result : 爱上那个幸福愿
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+temp partial st: 11819 end: 11987
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩
+temp partial result : 爱上那个性那么接近
+temp act percent: 1
+operator() buffer n samples : 5482
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+temp partial st: 11819 end: 12021
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩
+temp partial result : 爱上那个性让我接近根本
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+temp partial st: 11819 end: 12056
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩
+temp partial result : 爱上那个幸福让我接近根本
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+temp partial st: 11819 end: 12090
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩
+temp partial result : 爱上那个性让我接近根本一事
+temp act percent: 1
+operator() buffer n samples : 5482
+act percent : 1
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+temp partial st: 11819 end: 12124
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩
+temp partial result : 爱上那个性那接近根本经碎了
+temp act percent: 1
+operator() buffer n samples : 5483
+act percent : 0.955752
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+temp partial st: 11819 end: 12158
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩
+temp partial result : 上那个幸福那我接近根本该是了
+temp act percent: 0.955752
+operator() buffer n samples : 5483
+act percent : 0.959786
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+temp partial st: 11819 end: 12192
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩
+temp partial result : 爱上那个性那么接近根本一个这个事
+temp act percent: 0.959786
+operator() buffer n samples : 5482
+act percent : 0.963145
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+temp partial st: 11819 end: 12226
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩
+temp partial result : 爱上那个性那么接近根本一个你这个是完全
+temp act percent: 0.963145
+operator() buffer n samples : 5483
+act percent : 0.965986
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+temp partial st: 11819 end: 12260
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩
+temp partial result : 爱上那个性接近根本是个你这个是完全没
+temp act percent: 0.965986
+operator() buffer n samples : 5483
+act percent : 0.968487
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+temp partial st: 11819 end: 12295
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩
+temp partial result : 爱上那个性最近根本是个你这个是完全没对的
+temp act percent: 0.968487
+operator() buffer n samples : 5482
+act percent : 0.970588
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+temp partial st: 11819 end: 12329
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩
+temp partial result : 爱上那个幸福我最近根本是你这个是完全对付
+temp act percent: 0.970588
+operator() buffer n samples : 5483
+act percent : 0.96875
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+temp partial st: 11819 end: 12363
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩
+temp partial result : 上那个幸福那我就竟根本该是吧这个是完全没对住
+temp act percent: 0.96875
+operator() buffer n samples : 5483
+status == 2 12389
+seg ends emplace_back frame idx : 12389
+seg 20 st: 11819 end: 12389   nframes : 570
+seg 20  acts percentage : 0.924561
+seg 20 partial seg result : 那个幸福我就竟根本该是个这个是完全没对付住
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+seg 18 vad result : temp_rt
+operator() buffer n samples : 5482
+status == 2 12404
+status == 2 12419
+operator() buffer n samples : 5483
+status == 2 12434
+seg sts emplace_back frame idx : 12449
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 1
+operator() buffer n samples : 5482
+act percent : 1
+operator() buffer n samples : 5483
+act percent : 0.932773
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+seg 18 vad result : temp_rt
+temp partial st: 12449 end: 12568
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩，那个幸福我就竟根本该是个这个是完全没对付住
+temp partial result : 当然在
+temp act percent: 0.932773
+operator() buffer n samples : 5483
+act percent : 0.947712
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+seg 18 vad result : temp_rt
+temp partial st: 12449 end: 12602
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩，那个幸福我就竟根本该是个这个是完全没对付住
+temp partial result : 高二中那个
+temp act percent: 0.947712
+operator() buffer n samples : 5482
+act percent : 0.957219
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+seg 18 vad result : temp_rt
+temp partial st: 12449 end: 12636
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩，那个幸福我就竟根本该是个这个是完全没对付住
+temp partial result : 高二中那个合并
+temp act percent: 0.957219
+operator() buffer n samples : 5483
+act percent : 0.963801
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+seg 18 vad result : temp_rt
+temp partial st: 12449 end: 12670
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩，那个幸福我就竟根本该是个这个是完全没对付住
+temp partial result : 高二中核定
+temp act percent: 0.963801
+operator() buffer n samples : 5483
+act percent : 0.968627
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+seg 18 vad result : temp_rt
+temp partial st: 12449 end: 12704
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩，那个幸福我就竟根本该是个这个是完全没对付住
+temp partial result : 高二中核定
+temp act percent: 0.968627
+operator() buffer n samples : 5482
+act percent : 0.972318
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+seg 18 vad result : temp_rt
+temp partial st: 12449 end: 12738
+before temp all segs rt : 现在我测试一下我们的实力，我们现在开始进行一个会议的测试看一看他们从上楼怎么样我每学上从小孩底前面没关系，没有做之前没有做过这个，那个相关系列是吧，三二十年我们没有做商应就是您的一个细方方向就果有语面背景其在细方方向切换是相对比较好迥力的就说完人分的说话整理也差不多其实双方分命比三万是多了还要，难一点因为心飞气的高的成功，对心的时候音感觉，对后面就会差一点，常用的常用的他到了通盗门实际还可以，再看一看现在看一看戏非常怎么样，为什么现在的效果是比较看起来是这样的，我们多职业不能因为现在雨料量全是全是内种，很文我是画流型的时候我就面玩个什么那个，因没有要新春现在有很多个中国访的过程，这个我们想工作，这个事我怎么这么对这个我待会我再测一下因为更换了一全过，就是我同一次约出来，当时他让我看一下那个男孩，那个幸福我就竟根本该是个这个是完全没对付住
+temp partial result : 当然在核定核对下
+temp act percent: 0.972318
+operator() buffer n samples : 5483
+status == 2 12764
+seg ends emplace_back frame idx : 12764
+seg 21 st: 12449 end: 12764   nframes : 315
+seg 21  acts percentage : 0.920635
+seg 21 partial seg result : 当然在核定场核对下
+seg 0 vad result : temp_rt
+seg 1 vad result : temp_rt
+seg 2 vad result : temp_rt
+seg 3 vad result : temp_rt
+seg 4 vad result : temp_rt
+seg 5 vad result : temp_rt
+seg 6 vad result : temp_rt
+seg 7 vad result : temp_rt
+seg 8 vad result : temp_rt
+seg 9 vad result : temp_rt
+seg 10 vad result : temp_rt
+seg 11 vad result : temp_rt
+seg 12 vad result : temp_rt
+seg 13 vad result : temp_rt
+seg 14 vad result : temp_rt
+seg 15 vad result : temp_rt
+seg 16 vad result : temp_rt
+seg 17 vad result : temp_rt
+seg 18 vad result : temp_rt
+seg 19 vad result : temp_rt
+operator() buffer n samples : 5483
+status == 2 12779
+status == 2 12794
+terminate called without an active exception

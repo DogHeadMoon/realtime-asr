@@ -1,0 +1,37 @@
+[ 10%] Built target wsclient
+Consolidate compiler generated dependencies of target realtime-asr
+[ 13%] Building CXX object CMakeFiles/realtime-asr.dir/websocket/websocket_server.o
+/home/duyao/workplace/realtime-asr/websocket/websocket_server.cc: In member function ‘std::__cxx11::string kingsoft::ConnectionHandler::get_rsp_jsonstr(std::__cxx11::string, int, int)’:
+/home/duyao/workplace/realtime-asr/websocket/websocket_server.cc:308:20: warning: ‘FastWriter’ is deprecated: Use StreamWriterBuilder instead [-Wdeprecated-declarations]
+   Json::FastWriter fastWriter;
+                    ^~~~~~~~~~
+In file included from /home/duyao/workplace/realtime-asr/json/json.h:13:0,
+                 from /home/duyao/workplace/realtime-asr/http/httpaudio.h:4,
+                 from /home/duyao/workplace/realtime-asr/websocket/websocket_server.h:21,
+                 from /home/duyao/workplace/realtime-asr/websocket/websocket_server.cc:15:
+/home/duyao/workplace/realtime-asr/json/writer.h:168:70: note: declared here
+ class JSONCPP_DEPRECATED("Use StreamWriterBuilder instead") JSON_API FastWriter
+                                                                      ^~~~~~~~~~
+/home/duyao/workplace/realtime-asr/websocket/websocket_server.cc: In member function ‘int kingsoft::ConnectionHandler::OnText(const string&)’:
+/home/duyao/workplace/realtime-asr/websocket/websocket_server.cc:331:16: warning: ‘Reader’ is deprecated: Use CharReader and CharReaderBuilder instead. [-Wdeprecated-declarations]
+   Json::Reader reader;
+                ^~~~~~
+In file included from /home/duyao/workplace/realtime-asr/json/json.h:11:0,
+                 from /home/duyao/workplace/realtime-asr/http/httpaudio.h:4,
+                 from /home/duyao/workplace/realtime-asr/websocket/websocket_server.h:21,
+                 from /home/duyao/workplace/realtime-asr/websocket/websocket_server.cc:15:
+/home/duyao/workplace/realtime-asr/json/reader.h:37:63: note: declared here
+     "Use CharReader and CharReaderBuilder instead.") JSON_API Reader {
+                                                               ^~~~~~
+/home/duyao/workplace/realtime-asr/websocket/websocket_server.cc:331:16: warning: ‘Json::Reader::Reader()’ is deprecated: Use CharReader and CharReaderBuilder instead [-Wdeprecated-declarations]
+   Json::Reader reader;
+                ^~~~~~
+In file included from /home/duyao/workplace/realtime-asr/json/json.h:11:0,
+                 from /home/duyao/workplace/realtime-asr/http/httpaudio.h:4,
+                 from /home/duyao/workplace/realtime-asr/websocket/websocket_server.h:21,
+                 from /home/duyao/workplace/realtime-asr/websocket/websocket_server.cc:15:
+/home/duyao/workplace/realtime-asr/json/reader.h:56:3: note: declared here
+   Reader();
+   ^~~~~~
+[ 16%] Linking CXX executable realtime-asr
+[100%] Built target realtime-asr

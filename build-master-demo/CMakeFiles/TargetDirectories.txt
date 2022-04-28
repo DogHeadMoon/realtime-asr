@@ -1,0 +1,3 @@
+/home/duyao/workplace/realtime-asr/build/CMakeFiles/realtime-asr.dir
+/home/duyao/workplace/realtime-asr/build/CMakeFiles/edit_cache.dir
+/home/duyao/workplace/realtime-asr/build/CMakeFiles/rebuild_cache.dir

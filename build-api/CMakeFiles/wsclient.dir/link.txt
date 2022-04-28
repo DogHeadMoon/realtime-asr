@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/wsclient.dir/bin/client.o CMakeFiles/wsclient.dir/websocket/websocket_client.o -o wsclient   -L/home/duyao/workplace/realtime-asr/libs  -Wl,-rpath,/home/duyao/workplace/realtime-asr/libs ../libs/libjsoncpp.a -lpthread 

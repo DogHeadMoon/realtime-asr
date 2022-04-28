@@ -1,0 +1,123 @@
+[  3%] Building CXX object CMakeFiles/realtime-asr.dir/http/httpaudio.o
+[  7%] Building CXX object CMakeFiles/realtime-asr.dir/bin/server.o
+[ 11%] Building C object CMakeFiles/realtime-asr.dir/vad/src/file_cut.o
+[ 23%] Building C object CMakeFiles/realtime-asr.dir/vad/src/period_format.o
+[ 23%] Building C object CMakeFiles/realtime-asr.dir/vad/src/main.o
+[ 23%] Building CXX object CMakeFiles/realtime-asr.dir/segment/segment.o
+[ 26%] Building C object CMakeFiles/realtime-asr.dir/vad/src/simple_vad.o
+[ 30%] Building C object CMakeFiles/realtime-asr.dir/vad/thirdparty/webrtc/common_audio/signal_processing/division_operations.o
+[ 34%] Building C object CMakeFiles/realtime-asr.dir/vad/thirdparty/webrtc/common_audio/signal_processing/downsample_fast.o
+[ 38%] Building C object CMakeFiles/realtime-asr.dir/vad/thirdparty/webrtc/common_audio/signal_processing/energy.o
+[ 42%] Building C object CMakeFiles/realtime-asr.dir/vad/thirdparty/webrtc/common_audio/signal_processing/cross_correlation.o
+[ 46%] Building C object CMakeFiles/realtime-asr.dir/vad/thirdparty/webrtc/common_audio/signal_processing/get_scaling_square.o
+[ 50%] Building C object CMakeFiles/realtime-asr.dir/vad/thirdparty/webrtc/common_audio/signal_processing/min_max_operations.o
+[ 53%] Building C object CMakeFiles/realtime-asr.dir/vad/thirdparty/webrtc/common_audio/signal_processing/spl_init.o
+[ 57%] Building C object CMakeFiles/realtime-asr.dir/vad/thirdparty/webrtc/common_audio/signal_processing/resample_48khz.o
+[ 61%] Building C object CMakeFiles/realtime-asr.dir/vad/thirdparty/webrtc/common_audio/signal_processing/resample_by_2_internal.o
+[ 65%] Building C object CMakeFiles/realtime-asr.dir/vad/thirdparty/webrtc/common_audio/signal_processing/resample_fractional.o
+[ 69%] Building C object CMakeFiles/realtime-asr.dir/vad/thirdparty/webrtc/common_audio/vad/vad_core.o
+[ 73%] Building C object CMakeFiles/realtime-asr.dir/vad/thirdparty/webrtc/common_audio/signal_processing/vector_scaling_operations.o
+[ 76%] Building C object CMakeFiles/realtime-asr.dir/vad/thirdparty/webrtc/common_audio/vad/vad_filterbank.o
+/home/duyao/workplace/realtime-asr/vad/src/file_cut.c: In function ‘cut_frame’:
+/home/duyao/workplace/realtime-asr/vad/src/file_cut.c:44:27: warning: format ‘%ld’ expects argument of type ‘long int’, but argument 6 has type ‘int’ [-Wformat=]
+                  "%s/%s_%ld-%ld_%s.pcm", cut->output_file_dir,
+                         ~~^
+                         %d
+/home/duyao/workplace/realtime-asr/vad/src/file_cut.c:44:31: warning: format ‘%ld’ expects argument of type ‘long int’, but argument 7 has type ‘int’ [-Wformat=]
+                  "%s/%s_%ld-%ld_%s.pcm", cut->output_file_dir,
+                             ~~^
+                             %d
+/home/duyao/workplace/realtime-asr/vad/src/file_cut.c:44:25: warning: ‘%ld’ directive output may be truncated writing between 1 and 11 bytes into a region of size between 0 and 198 [-Wformat-truncation=]
+                  "%s/%s_%ld-%ld_%s.pcm", cut->output_file_dir,
+                         ^~~
+/home/duyao/workplace/realtime-asr/vad/src/file_cut.c:43:9: note: ‘snprintf’ output 11 or more bytes (assuming 209) into a destination of size 200
+         snprintf(cut->result_filename, sizeof(cut->result_filename),
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                  "%s/%s_%ld-%ld_%s.pcm", cut->output_file_dir,
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                  cut->output_filename_prefix, CAL_TIME_BY_FRAME(cut->cut_begin_frame),
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                  CAL_TIME_BY_FRAME(last_frame) - 1, cut->is_contain_active ? "A" : "I");
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ 92%] Building C object CMakeFiles/realtime-asr.dir/vad/thirdparty/webrtc/common_audio/vad/vad_sp.o
+[ 96%] Building C object CMakeFiles/realtime-asr.dir/vad/thirdparty/webrtc/common_audio/vad/vad_gmm.o
+[ 96%] Building CXX object CMakeFiles/realtime-asr.dir/websocket/websocket_server.o
+[ 96%] Building C object CMakeFiles/realtime-asr.dir/vad/thirdparty/webrtc/common_audio/vad/webrtc_vad.o
+[ 96%] Building CXX object CMakeFiles/realtime-asr.dir/vad/thirdparty/webrtc/rtc_base/checks.o
+/home/duyao/workplace/realtime-asr/http/httpaudio.cc: In function ‘std::__cxx11::string get_json(std::__cxx11::string, std::__cxx11::string)’:
+/home/duyao/workplace/realtime-asr/http/httpaudio.cc:9:24: warning: ‘StyledWriter’ is deprecated: Use StreamWriterBuilder instead [-Wdeprecated-declarations]
+     Json::StyledWriter styledWriter;
+                        ^~~~~~~~~~~~
+In file included from /home/duyao/workplace/realtime-asr/json/json.h:13:0,
+                 from /home/duyao/workplace/realtime-asr/http/httpaudio.h:4,
+                 from /home/duyao/workplace/realtime-asr/http/httpaudio.cc:1:
+/home/duyao/workplace/realtime-asr/json/writer.h:229:5: note: declared here
+     StyledWriter : public Writer {
+     ^~~~~~~~~~~~
+/home/duyao/workplace/realtime-asr/http/httpaudio.cc: In function ‘std::__cxx11::string parse_json(std::__cxx11::string)’:
+/home/duyao/workplace/realtime-asr/http/httpaudio.cc:16:18: warning: ‘Reader’ is deprecated: Use CharReader and CharReaderBuilder instead. [-Wdeprecated-declarations]
+     Json::Reader reader;
+                  ^~~~~~
+In file included from /home/duyao/workplace/realtime-asr/json/json.h:11:0,
+                 from /home/duyao/workplace/realtime-asr/http/httpaudio.h:4,
+                 from /home/duyao/workplace/realtime-asr/http/httpaudio.cc:1:
+/home/duyao/workplace/realtime-asr/json/reader.h:37:63: note: declared here
+     "Use CharReader and CharReaderBuilder instead.") JSON_API Reader {
+                                                               ^~~~~~
+/home/duyao/workplace/realtime-asr/http/httpaudio.cc:16:18: warning: ‘Json::Reader::Reader()’ is deprecated: Use CharReader and CharReaderBuilder instead [-Wdeprecated-declarations]
+     Json::Reader reader;
+                  ^~~~~~
+In file included from /home/duyao/workplace/realtime-asr/json/json.h:11:0,
+                 from /home/duyao/workplace/realtime-asr/http/httpaudio.h:4,
+                 from /home/duyao/workplace/realtime-asr/http/httpaudio.cc:1:
+/home/duyao/workplace/realtime-asr/json/reader.h:56:3: note: declared here
+   Reader();
+   ^~~~~~
+/home/duyao/workplace/realtime-asr/http/httpaudio.cc: In function ‘std::__cxx11::string format_json(std::__cxx11::string, std::__cxx11::string, std::__cxx11::string)’:
+/home/duyao/workplace/realtime-asr/http/httpaudio.cc:34:24: warning: ‘StyledWriter’ is deprecated: Use StreamWriterBuilder instead [-Wdeprecated-declarations]
+     Json::StyledWriter styledWriter;
+                        ^~~~~~~~~~~~
+In file included from /home/duyao/workplace/realtime-asr/json/json.h:13:0,
+                 from /home/duyao/workplace/realtime-asr/http/httpaudio.h:4,
+                 from /home/duyao/workplace/realtime-asr/http/httpaudio.cc:1:
+/home/duyao/workplace/realtime-asr/json/writer.h:229:5: note: declared here
+     StyledWriter : public Writer {
+     ^~~~~~~~~~~~
+/home/duyao/workplace/realtime-asr/bin/server.cc: In function ‘int get_audio(std::__cxx11::string, std::__cxx11::string&, std::__cxx11::string&)’:
+/home/duyao/workplace/realtime-asr/bin/server.cc:12:18: warning: ‘Reader’ is deprecated: Use CharReader and CharReaderBuilder instead. [-Wdeprecated-declarations]
+     Json::Reader reader;
+                  ^~~~~~
+In file included from /home/duyao/workplace/realtime-asr/json/json.h:11:0,
+                 from /home/duyao/workplace/realtime-asr/http/httpaudio.h:4,
+                 from /home/duyao/workplace/realtime-asr/websocket/websocket_server.h:19,
+                 from /home/duyao/workplace/realtime-asr/bin/server.cc:2:
+/home/duyao/workplace/realtime-asr/json/reader.h:37:63: note: declared here
+     "Use CharReader and CharReaderBuilder instead.") JSON_API Reader {
+                                                               ^~~~~~
+/home/duyao/workplace/realtime-asr/bin/server.cc:12:18: warning: ‘Json::Reader::Reader()’ is deprecated: Use CharReader and CharReaderBuilder instead [-Wdeprecated-declarations]
+     Json::Reader reader;
+                  ^~~~~~
+In file included from /home/duyao/workplace/realtime-asr/json/json.h:11:0,
+                 from /home/duyao/workplace/realtime-asr/http/httpaudio.h:4,
+                 from /home/duyao/workplace/realtime-asr/websocket/websocket_server.h:19,
+                 from /home/duyao/workplace/realtime-asr/bin/server.cc:2:
+/home/duyao/workplace/realtime-asr/json/reader.h:56:3: note: declared here
+   Reader();
+   ^~~~~~
+/home/duyao/workplace/realtime-asr/bin/server.cc: In function ‘int main(int, char**)’:
+/home/duyao/workplace/realtime-asr/bin/server.cc:33:10: warning: possible problem detected in invocation of delete operator: [-Wdelete-incomplete]
+   delete pvad_inst;
+          ^~~~~~~~~
+/home/duyao/workplace/realtime-asr/bin/server.cc:26:12: warning: ‘pvad_inst’ has incomplete type
+   VadInst* pvad_inst = WebRtcVad_Create();
+            ^~~~~~~~~
+In file included from /home/duyao/workplace/realtime-asr/websocket/websocket_server.h:16:0,
+                 from /home/duyao/workplace/realtime-asr/bin/server.cc:2:
+/home/duyao/workplace/realtime-asr/vad/thirdparty/webrtc/common_audio/vad/include/webrtc_vad.h:23:16: note: forward declaration of ‘struct WebRtcVadInst’
+ typedef struct WebRtcVadInst VadInst;
+                ^~~~~~~~~~~~~
+/home/duyao/workplace/realtime-asr/bin/server.cc:33:10: note: neither the destructor nor the class-specific operator delete will be called, even if they are declared when the class is defined
+   delete pvad_inst;
+          ^~~~~~~~~
+[100%] Linking CXX executable realtime-asr
+[100%] Built target realtime-asr
