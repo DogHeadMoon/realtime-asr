@@ -110,8 +110,10 @@ void ConnectionHandler::OnSpeechData(const beast::flat_buffer& buffer) {
   int num_samples = buffer.size() / sizeof(int16_t);
 
   const int16_t* pdata = static_cast<const int16_t*>(buffer.data().data());
-  const int header = 22;
-  if(num_samples>header){
+  bool has_header = false;
+  int header = 0;
+  if(has_header){
+    header = 22;
   }
   for (int i = header; i < num_samples; i++) {
     samples_.emplace_back(pdata[i]);
@@ -215,7 +217,7 @@ void ConnectionHandler::DecodeThreadFunc() {
           
           if(st<num_samples && end<num_samples){
             float perct = acts_.act_percent(acts_.seg_sts_[i], acts_.seg_ends_[i]);
-            std::cout <<"seg "<<i<<"  acts percentage : "<<perct <<std::endl;
+            //std::cout <<"seg "<<i<<"  acts percentage : "<<perct <<std::endl;
             
             if( perct>MIN_ACT_PERCENT && n_spk_frames>MIN_SPEAK_NFRAMES ){
               std::string key="seg-";
@@ -230,11 +232,7 @@ void ConnectionHandler::DecodeThreadFunc() {
               info.end_frm = acts_.seg_ends_[i];
               info.result = cur_result;
               seginfos_.emplace_back(info);
-              std::cout<<"seg "<< i<<" partial seg result : "<<cur_result<<std::endl;
-              //std::string str_allsegs = Get_segs_result();
-              //std::string rt = SerializeResult(str_allsegs);
-              //OnPartialResult(rt);
-              //rst = str_allsegs;
+              //std::cout<<"seg "<< i<<" partial seg result : "<<cur_result<<std::endl;
             }
           }
         }
@@ -248,7 +246,7 @@ void ConnectionHandler::DecodeThreadFunc() {
           int nends = acts_.seg_ends_.size();
           if(nsts == nends + 1 && nsts>0){
             float act_percent = acts_.act_percent(acts_.seg_sts_[nsts-1], nframes - 1 );
-            std::cout<<"act percent : "<<act_percent<<std::endl; 
+            //std::cout<<"act percent : "<<act_percent<<std::endl; 
             if(act_percent>0.6){
               int st = acts_.seg_sts_[nsts-1] * samples_per_frame;
               int end = end_spl_idx;
@@ -268,10 +266,11 @@ void ConnectionHandler::DecodeThreadFunc() {
                     rt = get_rsp_jsonstr(temp_rt + "...", state_);
                   }
                   
-                  std::cout<<"temp partial st: "<<acts_.seg_sts_[nsts-1]<<" end: "<<end_spl_idx/samples_per_frame<<std::endl;
-                  std::cout<<"before temp all segs rt : "<<all_segs_rt<<std::endl;
+                  
+                  //std::cout<<"temp partial st: "<<acts_.seg_sts_[nsts-1]<<" end: "<<end_spl_idx/samples_per_frame<<std::endl;
+                  //std::cout<<"before temp all segs rt : "<<all_segs_rt<<std::endl;
                   std::cout<<"temp partial result : "<<temp_rt<<std::endl; 
-                  std::cout<<"temp act percent: "<<act_percent <<std::endl;
+                  //std::cout<<"temp act percent: "<<act_percent <<std::endl;        */
 
                   OnResult(rt);
                 }
@@ -337,7 +336,7 @@ int ConnectionHandler::OnText(const std::string& message) {
   std::string base64_str = root.get("audio", "").asString();
   std::string format = root.get("format", "").asString();
 
-  std::cout<<"get message status : "<<status<<std::endl;
+  //std::cout<<"get message status : "<<status<<std::endl;
 
   if(base64_str.size()>0){
     std::vector<uint8_t> decoded = base64::decode(base64_str);
@@ -388,6 +387,7 @@ void ConnectionHandler::operator()() {
       ws_.read(buffer);
       if (ws_.got_text()) {
         std::string message = beast::buffers_to_string(buffer.data());
+        //std::cout<<"get message : "<<message <<std::endl;
         int state = OnText(message);
         if(decode_thread_ == nullptr){
           OnStart();

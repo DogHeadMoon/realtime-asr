@@ -32,7 +32,8 @@ int main(int argc, char* argv[])
 
   VadInst* pvad_inst = WebRtcVad_Create();
   WebRtcVad_Init(pvad_inst);
-  WebRtcVad_set_mode(pvad_inst, 1);
+  //WebRtcVad_set_mode(pvad_inst, 1);
+  WebRtcVad_set_mode(pvad_inst, 2);
 
   kingsoft::WebSocketServer wss(atoi(argv[1]), pvad_inst);
   wss.Start();

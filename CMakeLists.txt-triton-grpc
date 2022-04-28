@@ -1,0 +1,61 @@
+set(PRJ_DIR .)
+set(ROOT /home/duyao/workplace/asr)
+set(LIBS ${ROOT}/libs)
+set(srcdir ${ROOT}/kaldi_src)
+
+add_executable(
+    client
+    bin/server.cc
+#    client.cc
+  )
+
+target_include_directories(
+    client
+    PRIVATE 
+      ${PRJ_DIR}
+      /home/duyao/workplace/tri/client/build/install/include
+)
+
+link_directories(/home/duyao/workplace/tri/client/build/install/lib/)
+
+target_link_libraries(
+  client
+  PRIVATE
+    /home/duyao/workplace/tri/client/build/install/lib/libgrpcclient_static.a
+    /home/duyao/workplace/tri/client/build/install/lib/libgrpc++.a
+    /home/duyao/workplace/tri/client/build/install/lib/libgrpc++_reflection.a
+    /home/duyao/workplace/tri/client/build/install/lib/libhttpclient_static.a
+    /home/duyao/workplace/tri/client/build/install/lib/libprotobuf.a
+    /home/duyao/workplace/tri/client/build/install/lib/libgpr.a
+    /home/duyao/workplace/tri/client/build/install/lib/libcurl.a
+    /home/duyao/workplace/tri/client/build/install/lib/libaddress_sorting.a       
+    /home/duyao/workplace/tri/client/build/install/lib/libgrpc++_reflection.a
+    /home/duyao/workplace/tri/client/build/install/lib/libcares.a                 
+    /home/duyao/workplace/tri/client/build/install/lib/libgrpc_unsecure.a
+    /home/duyao/workplace/tri/client/build/install/lib/libcurl.a                  
+    /home/duyao/workplace/tri/client/build/install/lib/libgrpc++_unsecure.a
+    /home/duyao/workplace/tri/client/build/install/lib/libgpr.a                   
+    /home/duyao/workplace/tri/client/build/install/lib/libhttpclient_static.a
+    /home/duyao/workplace/tri/client/build/install/lib/libgrpc.a                  
+    /home/duyao/workplace/tri/client/build/install/lib/libprotobuf.a
+    /home/duyao/workplace/tri/client/build/install/lib/libgrpc++.a                
+    /home/duyao/workplace/tri/client/build/install/lib/libprotobuf-lite.a
+    /home/duyao/workplace/tri/client/build/install/lib/libgrpcclient_static.a     
+    /home/duyao/workplace/tri/client/build/install/lib/libprotoc.a
+    /home/duyao/workplace/tri/client/build/install/lib/libgrpc_cronet.a           
+    /home/duyao/workplace/tri/client/build/install/lib/libtritonasyncworkqueue.a
+    /home/duyao/workplace/tri/client/build/install/lib/libgrpc++_error_details.a  
+    /home/duyao/workplace/tri/client/build/install/lib/libtritoncommonerror.a
+    /home/duyao/workplace/tri/client/build/install/lib/libgrpc_plugin_support.a   
+    /home/duyao/workplace/tri/client/build/install/lib/libtritoncommonlogging.a
+    /home/duyao/workplace/tri/client/build/install/lib/libgrpcpp_channelz.a       
+    /home/duyao/workplace/tri/client/build/install/lib/libtritontableprinter.a
+    /usr/lib/x86_64-linux-gnu/libcrypto.a
+    ssl
+    dl
+    z
+    pthread
+    #-lidn -lrt -lcrypto -lssl
+    #/home/duyao/workplace/tri/client/build/install/lib/grpcclient_static.a
+    #/home/duyao/workplace/tri/client/build/install/lib/httpclient_static
+)

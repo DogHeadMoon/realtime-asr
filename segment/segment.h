@@ -41,6 +41,9 @@ private:
     const int window_ = 15;
     vector<int> wind_stats_;
     int last_seg_idx_;
+
+    int nspeech_acc_ = 0;
+    int nsil_acc_ = 0;
 };
 
 #endif
